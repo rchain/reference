@@ -16,7 +16,7 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 ## Co-op
 
-* [Byelaws](https://docs.google.com/document/d/1yhM04e8_qpu8JVrybB2BTZJycJJmPAsY8wfyAsxhXOk/edit)
+* [Bylaws](https://docs.google.com/document/d/1yhM04e8_qpu8JVrybB2BTZJycJJmPAsY8wfyAsxhXOk/edit)
 
 ## AMP Redemption
 * [Redemption V1](https://docs.google.com/document/d/1augDANVb38PIiJELfs0ZUmhZp0Gea9G6aR8bx2vVMs4/edit#heading=h.omoixvy9edx)
@@ -25,4 +25,4 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [ Redemption Terms & Conditions](https://docs.google.com/document/d/1CPiH5ZQZmm05IshDfudqq9RFy66lF9XCsRV8qJanb1w/edit)
 
-* [Redemption Ux](https://docs.google.com/document/d/1TQVAqskQseLcmyVB7beC69MjL8UfuZ2ghEPPcXkEVYE/edit)
+* [Redemption UX](https://docs.google.com/document/d/1TQVAqskQseLcmyVB7beC69MjL8UfuZ2ghEPPcXkEVYE/edit)

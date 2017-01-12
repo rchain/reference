@@ -4,7 +4,9 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 ## Platform
 
-* [RChain Architecture (0.8.1)](http://rchain-architecture.readthedocs.io)
+* [RChain Architecture (0.8)](http://rchain-architecture.readthedocs.io/en/stable)
+
+* [RChain Architecture (latest)](http://rchain-architecture.readthedocs.io/)
 
 * [Mobile process calculi for the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.rtfd.io/)
 
@@ -14,15 +16,19 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Rholang examples](https://github.com/rchain/Rholang/tree/DAO/examples/RTE)
 
+* [Church Numerals in Rho](https://docs.google.com/document/d/1rbvKyd7dNxWiWn-nKbMYMPPtxEbOahah8w1H_x3JV0s/)
+
 ## Co-op
 
-* [Bylaws](https://docs.google.com/document/d/1yhM04e8_qpu8JVrybB2BTZJycJJmPAsY8wfyAsxhXOk/edit)
+* [About Co-operatives](http://www.prout.org/pna/cooperatives.html)
+
+* [Articles of Incorporation](https://github.com/rchain/board/blob/master/RChain%20Cooperative%20-%20Articles%20of%20Incorporation%20with%20RA.pdf)
+
+* [Bylaws](https://github.com/rchain/board/blob/master/RChain%20Coop%20-%20Bylaws%20%28approved%2001-11-17%29.pdf)
 
 ## AMP Redemption
-* [Redemption V1](https://docs.google.com/document/d/1augDANVb38PIiJELfs0ZUmhZp0Gea9G6aR8bx2vVMs4/edit#heading=h.omoixvy9edx)
 
-* [Redemption V2](https://docs.google.com/document/d/1rFSU6p815Hl5mFfkavKRUu-z-_5q9oQTSe8JI6Ml-Sg/edit#heading=h.omoixvy9edx)
+* [Final Redemption Instructions](https://docs.google.com/document/d/1pZZ6LYpZVPsRbpqmtDp5rUWUIlrzNrn_Tec6EbAlgZ0)
 
-* [ Redemption Terms & Conditions](https://docs.google.com/document/d/1CPiH5ZQZmm05IshDfudqq9RFy66lF9XCsRV8qJanb1w/edit)
+* [Final Terms & Conditions](https://docs.google.com/document/d/1pZZ6LYpZVPsRbpqmtDp5rUWUIlrzNrn_Tec6EbAlgZ0)
 
-* [Redemption UX](https://docs.google.com/document/d/1TQVAqskQseLcmyVB7beC69MjL8UfuZ2ghEPPcXkEVYE/edit)

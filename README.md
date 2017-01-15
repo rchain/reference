@@ -30,5 +30,5 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Final Redemption Instructions](https://docs.google.com/document/d/1pZZ6LYpZVPsRbpqmtDp5rUWUIlrzNrn_Tec6EbAlgZ0)
 
-* [Final Terms & Conditions](https://docs.google.com/document/d/1pZZ6LYpZVPsRbpqmtDp5rUWUIlrzNrn_Tec6EbAlgZ0)
+* [Final Terms & Conditions](https://github.com/rchain/reference/blob/master/RChain%20Promotional%20Credits%20Offer%20-%20Terms%20and%20Conditions.pdf)
 

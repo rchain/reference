@@ -18,6 +18,8 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Church Numerals in Rho](https://docs.google.com/document/d/1rbvKyd7dNxWiWn-nKbMYMPPtxEbOahah8w1H_x3JV0s/)
 
+* [Rosette 1.1 (pdf)](https://github.com/rchain/reference/blob/master/docs/Rosette-1.1.pdf)
+
 ## Co-op
 
 * [About Co-operatives](http://www.prout.org/pna/cooperatives.html)
@@ -30,5 +32,4 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Final Redemption Instructions](https://docs.google.com/document/d/1pZZ6LYpZVPsRbpqmtDp5rUWUIlrzNrn_Tec6EbAlgZ0)
 
-* [Final Terms & Conditions](https://github.com/rchain/reference/blob/master/RChain%20Promotional%20Credits%20Offer%20-%20Terms%20and%20Conditions.pdf)
-
+* [Final Terms & Conditions (pdf)](https://github.com/rchain/reference/blob/master/docs/RChain%20Promotional%20Credits%20Offer%20-%20Terms%20and%20Conditions.pdf)

@@ -20,6 +20,10 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Rosette 1.1 (pdf)](https://github.com/rchain/reference/blob/master/docs/Rosette-1.1.pdf)
 
+## Talks
+
+* Seattle Ethereum 01.30.17 [(video)](https://youtu.be/3kyXqchEdLc) [(slides)](https://drive.google.com/file/d/0B5I9qM5f_1cfMjY0bVgwTVFvLWM/view)
+
 ## Co-op
 
 * [About Co-operatives](http://www.prout.org/pna/cooperatives.html)

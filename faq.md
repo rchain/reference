@@ -2,8 +2,8 @@
 
 ### Sections
 
-[General](#general)
-[Cooperative](#cooperative)
+[General](#general)  
+[Cooperative](#cooperative)  
 [Tokens](#tokens)  
 [Activists](#activists)  
 [Developers](#developers)  

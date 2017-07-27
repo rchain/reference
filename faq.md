@@ -2,8 +2,9 @@
 
 ### Sections
 
-[General](#general)  
-[Investors](#investors)  
+[General](#general)
+[Cooperative](#cooperative)
+[Tokens](#tokens)  
 [Activists](#activists)  
 [Developers](#developers)  
 
@@ -21,11 +22,17 @@ A snapshot of the platform [milestone definitions](https://docs.google.com/sprea
 **How did RChain come to be?**  
 RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016, while Greg was with Synereo. Synereo's goal was to create a blockchain-based social network and RChain was developed as the underlying technology. The Synereo founders decided to split in order to allow the Synereo team to focus on delivering a social network with existing blockchain technology, and for Greg to focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 – January 2017.
 
-**What is the governance model?**  
-The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
+
+## Cooperative
 
 **What is the difference between the Cooperative and the Holdings company?**  
 The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [RChain Holdings](http://rchain.io/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
+
+**Where is RChain based?**  
+The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
+
+**What is the governance model?**  
+The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
 
 **What is the Membership Program?**  
 A program is being developed, but some aspects depend on having a working RChain blockchain. Permission from each of the 50 US states is needed in order to charge a membership fee and this process should be complete in the 4th quarter of 2017.
@@ -33,16 +40,18 @@ A program is being developed, but some aspects depend on having a working RChain
 **I live outside of the United States. Can I join as a Member?**  
 That process is to be determined and RChain is seeking counsel on the matter. Regions sanctioned by the US could be problematic.
 
-**Where is RChain based?**  
-The RChain Cooperative and Holdings Company are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
+**What comm channels does the Co-op use?**  
+[Slack](http://slack.rchain.coop/) for discussion.  
+[Github](https://github.com/rchain/) for code and project coordination.  
+The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
+An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recording of meetings.  
+The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
+Various authors post on [Medium](https://medium.com/).  
 
 
-## Investors
+## Tokens
 
-**How can I invest directly in RChain?**  
-We invite visionary and like-minded investors to learn about how investment in RChain and its ecosystem can enhance their portfolio. Contact Investor Relations at [ir@rchain.io](mailto:ir@rchain.io).
-
-**What are RHOCs?**  
+**What are RHOCs?**
 RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token.
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  
@@ -71,14 +80,6 @@ Yes, but the logistics of the program are still in process, partially due to leg
 **Can I earn RHOCs by participating in projects?**  
 Yes. The first step is to [register as an Activist](https://docs.google.com/forms/d/e/1FAIpQLSecwGUVFNx_Xa_Qsw5bxLnaKstPS8kQnfrUGqpuf22rLDteDg/viewform?fbzx=-4415397049662474000) and then find projects you’d like to participate in.
 
-**What comm channels does the Co-op use?**  
-[Slack](http://slack.rchain.coop/) for discussion.  
-[Github](https://github.com/rchain/) for code and project coordination.  
-The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
-An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recording of meetings.  
-The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
-Various authors post on [Medium](https://medium.com/).  
-
 
 ## Developers
 
@@ -89,4 +90,4 @@ Various authors post on [Medium](https://medium.com/).
 At this point the entire development focus is on the core platform. If you’re a seasoned developer willing to learn a new programming language (Rholang), have experience with functional programming, appreciate formal specifications, or have expertise in comms then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as an Activist](https://docs.google.com/forms/d/e/1FAIpQLSecwGUVFNx_Xa_Qsw5bxLnaKstPS8kQnfrUGqpuf22rLDteDg/viewform?fbzx=-4415397049662474000) and put yourself in the Talent Pool.
 
 **How can I learn Rholang?**  
-While the site isn't up at this point in time, [https://rholang.org/](https://rholang.org/) will contain the best information about this.
+An understanding of Pi Calculus will help. Join the Slack #Rholang channel and ask questions.

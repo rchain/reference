@@ -51,7 +51,7 @@ Various authors post on [Medium](https://medium.com/).
 
 ## Tokens
 
-**What are RHOCs?**
+**What are RHOCs?**  
 RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token.
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  

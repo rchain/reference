@@ -1,4 +1,4 @@
-# FAQ
+# RChain Cooperative FAQ
 
 ### Sections
 

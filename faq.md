@@ -41,7 +41,7 @@ A program is being developed, but some aspects depend on having a working RChain
 That process is to be determined and RChain is seeking counsel on the matter. Regions sanctioned by the US could be problematic.
 
 **What comm channels does the Co-op use?**  
-[Slack](http://slack.rchain.coop/) for discussion.  Please see the [Rchain Slack Etiquette & Guidelines](RChainSlackEtiquette&Guidelines.md).
+[Slack](http://slack.rchain.coop/) for discussion.  Please see the [Rchain Slack Etiquette & Guidelines](RChainSlackEtiquetteGuidelines.md).
 [Github](https://github.com/rchain/) for code and project coordination.  
 The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
 An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recording of meetings.  

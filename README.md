@@ -32,6 +32,8 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 * [Bylaws](https://github.com/rchain/board/blob/master/RChain%20Coop%20-%20Bylaws%20%28approved%2001-11-17%29.pdf)
 
+* [FAQ](https://github.com/rchain/reference/blob/master/faq.md)
+
 ## AMP Redemption
 
 * [Final Terms & Conditions](https://raw.githubusercontent.com/rchain/reference/master/docs/RChain%20Promotional%20Credits%20Offer%20-%20Terms%20and%20Conditions.html)

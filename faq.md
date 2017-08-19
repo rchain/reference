@@ -46,7 +46,7 @@ That process is to be determined and RChain is seeking counsel on the matter. Re
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recording of meetings.  
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
-Various authors post on [Medium](https://medium.com/).  
+- Various authors post on [Medium](https://medium.com/).  
 
 
 ## Tokens
@@ -60,7 +60,8 @@ Here's the [financial summary, distribution, and other information](https://docs
 **Where can I trade RHOCs?**  
 Currently on EtherDelta and OasisDex (these require an Ethereum client such as Metamask, Parity, or Mist):  
 [https://etherdelta.github.io/#RHOC-ETH](https://etherdelta.github.io/#RHOC-ETH)  
-[https://oasisdex.com/](https://oasisdex.com/)
+[https://oasisdex.com/](https://oasisdex.com/)  
+For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](/rchain/Members/issues/45).
 
 **When will RHOCs be on the major crypto exchanges?**  
 The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with the Co-op for documentation needed.

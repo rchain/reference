@@ -44,9 +44,10 @@ That process is to be determined and RChain is seeking counsel on the matter. Re
 - [Slack](http://slack.rchain.coop/) for discussion. Please see the [Rchain Slack Etiquette & Guidelines](RChainSlackEtiquetteGuidelines.md). 
 - [Github](https://github.com/rchain/) for code and project coordination.  
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
-- An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recording of meetings.  
+- [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.  
+- An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.  
+- The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!  
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
-- Various authors post on [Medium](https://medium.com/).  
 
 
 ## Tokens

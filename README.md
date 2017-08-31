@@ -1,6 +1,6 @@
 # RChain reference
 
-Because the free version of Slack sucks as a reference tool - here's a collection of useful links at an easy to remember uri.
+Here's a collection of useful links at an easy to remember uri.
 
 ## Platform
 
@@ -24,11 +24,10 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 ## Co-op
 
-* [About Co-operatives](http://www.prout.org/pna/cooperatives.html)
-
-* [Articles of Incorporation](https://github.com/rchain/board/blob/master/RChain%20Cooperative%20-%20Articles%20of%20Incorporation%20with%20RA.pdf)
-
-* [Bylaws](https://github.com/rchain/board/blob/master/RChain%20Coop%20-%20Bylaws%20%28approved%2001-11-17%29.pdf)
-
 * [FAQ](https://github.com/rchain/reference/blob/master/faq.md)
 
+* [About Co-operatives](http://www.prout.org/pna/cooperatives.html)
+
+* [Articles of Incorporation, Bylaws, and board minutes](https://github.com/rchain/board)
+
+* [Other legal documents](https://github.com/rchain/legaldocs)

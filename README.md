@@ -26,7 +26,7 @@ Here's a collection of useful links at an easy to remember uri.
 
 * [FAQ](https://github.com/rchain/reference/blob/master/faq.md)
 
-* [About Co-operatives](http://www.prout.org/pna/cooperatives.html)
+* [About Cooperatives](http://www.prout.org/pna/cooperatives.html)
 
 * [Articles of Incorporation, Bylaws, and board minutes](https://github.com/rchain/board)
 

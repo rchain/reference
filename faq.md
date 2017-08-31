@@ -14,7 +14,8 @@
 RChain is a fundamentally new blockchain platform rooted in a formal model of concurrent and decentralized computation. The RChain Cooperative is leveraging that model through correct-by-construction software development to produce a concurrent, compositional, and infinitely scalable blockchain.
 
 **Where is the whitepaper?**  
-There will be a whitepaper published soon as well as a revision to the current [RChain Architecture](http://rchain-architecture.readthedocs.io) documentation.
+[Whitepaper] (http://docs.google.com/gview?url=https://github.com/rchain/reference/raw/master/docs/RChainWhitepaper.pdf).
+See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 
 **Where is the roadmap?**  
 A snapshot of the platform [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing) is available for commentary. The team has not yet committed to specific schedule dates. One estimate is the first release, Mercury, will be available after the goal of $10M committed investment is achieved.

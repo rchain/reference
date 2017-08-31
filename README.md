@@ -4,8 +4,6 @@ Because the free version of Slack sucks as a reference tool - here's a collectio
 
 ## Platform
 
-* [RChain Architecture (0.8)](http://rchain-architecture.readthedocs.io/en/stable)
-
 * [RChain Architecture (latest)](http://rchain-architecture.readthedocs.io/)
 
 * [Mobile process calculi for the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.rtfd.io/)

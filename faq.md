@@ -94,3 +94,6 @@ At this point the entire development focus is on the core platform. If you’re 
 
 **How can I learn Rholang?**  
 An understanding of Pi Calculus will help. Join the Slack #Rholang channel and ask questions.
+
+**What will the license be for RChain's components?**
+RChain's components are currently all under open source and free software licenses. Our license of choice is Apache v2. Currently, Rholang is the only component licensed under MIT.

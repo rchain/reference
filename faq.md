@@ -54,7 +54,14 @@ That process is to be determined and RChain is seeking counsel on the matter. Re
 ## Tokens
 
 **What are RHOCs?**  
-RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token.
+RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token. 
+
+**How fo I see my RHOC in myetherwallet.com** 
+Click Add Custom Token, then fill in: 
+Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5
+Token Symbol: RHOC
+Decimals:  8
+
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  
 Here's the [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing).

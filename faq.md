@@ -63,7 +63,7 @@ Here's the [financial summary, distribution, and other information](https://docs
 Currently on EtherDelta and OasisDex (these require an Ethereum client such as Metamask, Parity, or Mist):  
 [https://etherdelta.github.io/#RHOC-ETH](https://etherdelta.github.io/#RHOC-ETH)  
 [https://oasisdex.com/](https://oasisdex.com/)  
-For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](/rchain/Members/issues/45).
+For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](https://github.com/rchain/Members/issues/45).
 
 **When will RHOCs be on the major crypto exchanges?**  
 The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with the Co-op for documentation needed.

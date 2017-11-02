@@ -42,8 +42,8 @@ A program is being developed, but some aspects depend on having a working RChain
 That process is to be determined and RChain is seeking counsel on the matter. Regions sanctioned by the US could be problematic.
 
 **What comm channels does the Co-op use?**  
-- [Discord](https://discordapp.com/) for registered Members.  
-- [Slack](http://slack.rchain.coop/) for open discussion. Please see the [Rchain Slack Etiquette & Guidelines](RChainSlackEtiquetteGuidelines.md). 
+- [Discord](https://discordapp.com/) Co-op members, leadership and developers share a private **Discord server**. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop). See also [Etiquette & Guidelines](RChainSlackEtiquetteGuidelines.md).
+- RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment. 
 - [Github](https://github.com/rchain/) for code and project coordination.  
 - [Gitter](https://gitter.im/rchain) for code related chat.  
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
@@ -51,6 +51,7 @@ That process is to be determined and RChain is seeking counsel on the matter. Re
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.  
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!  
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
+- To review past Hangout Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index)
 
 
 ## Tokens
@@ -65,7 +66,7 @@ Here's the [financial summary, distribution, and other information](https://docs
 Currently on EtherDelta and OasisDex (these require an Ethereum client such as Metamask, Parity, or Mist):  
 [https://etherdelta.github.io/#RHOC-ETH](https://etherdelta.github.io/#RHOC-ETH)  
 [https://oasisdex.com/](https://oasisdex.com/)  
-For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](/rchain/Members/issues/45).
+For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](https://github.com/rchain/Members/issues/45).
 
 **When will RHOCs be on the major crypto exchanges?**  
 The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with the Co-op for documentation needed.

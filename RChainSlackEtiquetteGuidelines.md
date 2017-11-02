@@ -9,7 +9,7 @@ It’s important to us that the individuals who are driving results for the RCha
 
 ## **Some things that we greatly appreciate:**
  
-- personal introductions in #general 
+- personal introductions in #community 
 - channel specific conversations (rholang in #rholang, governance in #community-governance) 
 - citing of sources of information and reference 
   
@@ -39,4 +39,4 @@ We will continually strive to create an environment where RChain grows rapidly a
 
 Cheers,
 
-Rchain Team
+The RChain Team

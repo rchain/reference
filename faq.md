@@ -42,9 +42,8 @@ A program is being developed, but some aspects depend on having a working RChain
 That process is to be determined and RChain is seeking counsel on the matter. Regions sanctioned by the US could be problematic.
 
 **What comm channels does the Co-op use?**
-- Co-op members, leadership and developers share a private **Discord server**. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop)
+- Co-op members, leadership and developers share a private **Discord server**. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
 - RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment. 
-- [S̶l̶a̶c̶k̶](http://slack.rchain.coop) f̶o̶r̶ ̶d̶i̶s̶c̶u̶s̶s̶i̶o̶n̶.̶ ̶P̶l̶e̶a̶s̶e̶ ̶s̶e̶e̶ ̶t̶h̶e̶ [R̶c̶h̶a̶i̶n̶ ̶S̶l̶a̶c̶k̶ ̶E̶t̶i̶q̶u̶e̶t̶t̶e̶ ̶&̶ ̶G̶u̶i̶d̶e̶l̶i̶n̶e̶s̶](RChainSlackEtiquetteGuidelines.md)
 - [Github](https://github.com/rchain/) for code and project coordination.  
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.  
@@ -64,7 +63,6 @@ Click Add Custom Token, then fill in:
 Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5
 Token Symbol: RHOC
 Decimals:  8
-
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  
 Here's the [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing).

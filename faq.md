@@ -1,5 +1,8 @@
 # RChain Cooperative FAQ
 
+    Note: the FAQ will get an update to reflect decisions made in the Cooperative Members Meeting
+    held on October 24th.
+
 ### Sections
 
 [General](#general)  
@@ -14,7 +17,7 @@
 RChain is a fundamentally new blockchain platform rooted in a formal model of concurrent and decentralized computation. The RChain Cooperative is leveraging that model through correct-by-construction software development to produce a concurrent, compositional, and infinitely scalable blockchain.
 
 **Where is the whitepaper?**  
-[Whitepaper](http://docs.google.com/gview?url=https://github.com/rchain/reference/raw/master/docs/RChainWhitepaper.pdf).
+[On Github (PDF)](http://docs.google.com/gview?url=https://github.com/rchain/reference/raw/master/docs/RChainWhitepaper.pdf).
 See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 
 **Where is the roadmap?**  
@@ -39,29 +42,31 @@ The Co-op currently has a five-person [Board of Directors](https://www.rchain.co
 A program is being developed, but some aspects depend on having a working RChain blockchain. Permission from each of the 50 US states is needed in order to charge a membership fee and this process should be complete in the 4th quarter of 2017.
 
 **I live outside of the United States. Can I join as a Member?**  
-That process is to be determined and RChain is seeking counsel on the matter. Regions sanctioned by the US could be problematic.
+Yes, unless you reside in a region sanctioned by the US. Please visit [https://member.rchain.coop](https://member.rchain.coop) (requires KYC and a one-time $20 membership fee).
 
 **What comm channels does the Co-op use?**
 - Co-op members, leadership and developers share a private **Discord server**. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
-- RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment. 
+- RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment.
 - [Github](https://github.com/rchain/) for code and project coordination.  
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.  
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.  
+- There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
+- The [rchain forum](https://bitcointalk.org/index.php?topic=1747033.0) on Bitcointalk needs attention.
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!  
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
-- To review past Hangout Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index)
+- To review past Hangout Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
 
 
 ## Tokens
 
 **What are RHOCs?**  
-RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token. 
+RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as a vehicle for people to get access to the technology. There are 861,185,194 RHOCs in existence. No more will be minted. RHOCs will be 1:1 redeemable for REVs, a future RChain platform native staking token.
 
-**How fo I see my RHOC in myetherwallet.com** 
-Click Add Custom Token, then fill in: 
-Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5
-Token Symbol: RHOC
+**How do I see my RHOCs  in myetherwallet.com?**  
+Click Add Custom Token, then fill in:  
+Contract Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5  
+Token Symbol: RHOC  
 Decimals:  8
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  

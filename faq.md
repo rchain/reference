@@ -1,14 +1,11 @@
 # RChain Cooperative FAQ
 
-    Note: the FAQ will get an update to reflect decisions made in the Cooperative Members Meeting
-    held on October 24th.
-
 ### Sections
 
 [General](#general)  
 [Cooperative](#cooperative)  
 [Tokens](#tokens)  
-[Activists](#activists)  
+[Members](#members)  
 [Developers](#developers)  
 
 ## General
@@ -36,26 +33,29 @@ The [Co-op](https://www.rchain.coop) is the organization that develops the open-
 The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
 
 **What is the governance model?**  
-The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
+The Co-op is a member-driven organization with an elected nine-person [Board of Directors](https://rchain.coop/coop-information-1#board-of-directors). Board seats have 3, 2, or 1 year terms. The board is composed of:
 
-**What is the Membership Program?**  
-A program is being developed, but some aspects depend on having a working RChain blockchain. Permission from each of the 50 US states is needed in order to charge a membership fee and this process should be complete in the 4th quarter of 2017.
+- 3 years: Greg Meredith, Vlad Zamfir, Ian Bloom
+- 2 years: Kenny Rowe, Evan Jensen, Alexandr Bulkin
+- 1 year: Navneet Suman, Hendrik Jan Hilbolling, David Currin
 
-**I live outside of the United States. Can I join as a Member?**  
-Yes, unless you reside in a region sanctioned by the US. Please visit [https://member.rchain.coop](https://member.rchain.coop) (requires KYC and a one-time $20 membership fee).
+The Co-op officers are Greg Meredith, President, and Evan Jensen, Secretary. XXX is this accurate?
+
+There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but are limited to 11 working members plus a chair.
 
 **What comm channels does the Co-op use?**
-- Co-op members, leadership and developers share a private **Discord server**. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
+- Co-op members, leadership and developers share a private Discord server. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
 - RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment.
-- [Github](https://github.com/rchain/) for code and project coordination.  
+- [Github](https://github.com/rchain/) is used for code and project coordination.  
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.  
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.  
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.  
 - There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
-- The [rchain forum](https://bitcointalk.org/index.php?topic=1747033.0) on Bitcointalk needs attention.
+- The [RChain forum](https://bitcointalk.org/index.php?topic=1747033.0) on Bitcointalk needs attention.
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!  
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.  
-- To review past Hangout Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
+- RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
+- To review past Debrief Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
 
 
 ## Tokens
@@ -70,31 +70,40 @@ Token Symbol: RHOC
 Decimals:  8
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  
-Here's the [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing).
+Here's the [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing). 
+
+At the first Member Meeting in October 2017 the Members voted that "The Cooperative should sell from its treasury to put no more than 200 million RHOC tokens in circulation (tokens held by anyone, other than; 1) held by the Cooperative, or 2) burned) during the next calendar year." The full voting results are [reported on Medium](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33).
 
 **Where can I trade RHOCs?**  
-Currently on EtherDelta and OasisDex (these require an Ethereum client such as Metamask, Parity, or Mist):  
+Currently on EtherDelta, OasisDex, and SingularX (these require an Ethereum client such as Metamask, Parity, or Mist):  
 [https://etherdelta.github.io/#RHOC-ETH](https://etherdelta.github.io/#RHOC-ETH)  
 [https://oasisdex.com/](https://oasisdex.com/)  
+[https://ex.singularx.com/exchange/RHOC/ETH](https://ex.singularx.com/exchange/RHOC/ETH)  
 For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](https://github.com/rchain/Members/issues/45).
 
 **When will RHOCs be on the major crypto exchanges?**  
-The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with the Co-op for documentation needed.
+The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with participating Members for documentation needed.
 
 **Is it possible to redeem AMPs for RHOCs?**  
 Not directly; the redemption period ended in April 2017. AMPs and RHOCs are tradable on exchanges.
 
 
-## Activists
+## Members
 
 **How can I get involved with RChain?**  
-Community members who contribute time and energy are called Activists. These people collaborate on various projects to create Co-op infrastructure and work out its governance. To sign up there’s a [pre-registration form](https://docs.google.com/forms/d/e/1FAIpQLSecwGUVFNx_Xa_Qsw5bxLnaKstPS8kQnfrUGqpuf22rLDteDg/viewform?fbzx=-4415397049662474000) which requests basic info. After filling it out, you’ll be contacted with a welcome email containing links and information.
+Join one of the public forums open for discussion (see the Comm Channels above). People who want play a more active role can collaborate on projects to create Co-op infrastructure and work out its governance. To participate they need to become a Co-op Member.
+
+**What is the Membership Program?**  
+Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends, which will depend on having a working RChain blockchain. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
+
+**I live outside of the United States. Can I join as a Member?**  
+Yes, unless you reside in a region sanctioned by the US. The registration process will check that.
 
 **Is there a bounty program?**  
-Yes, but the logistics of the program are still in process, partially due to legal aspects. In the meantime, Github is used for [issue tracking and project management](https://github.com/rchain/Members/).
+Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/).
 
 **Can I earn RHOCs by participating in projects?**  
-Yes. The first step is to [register as an Activist](https://docs.google.com/forms/d/e/1FAIpQLSecwGUVFNx_Xa_Qsw5bxLnaKstPS8kQnfrUGqpuf22rLDteDg/viewform?fbzx=-4415397049662474000) and then find projects you’d like to participate in.
+Yes. The first step is to [register as a Member](https://member.rchain.coop), then find projects you’d like to participate in.
 
 
 ## Developers

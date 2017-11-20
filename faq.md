@@ -21,7 +21,7 @@ See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 A snapshot of the platform [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing) is available for commentary. The team has not yet committed to specific schedule dates.
 
 **How did RChain come to be?**  \
-RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016, while Greg was with Synereo. Synereo's goal was to create a blockchain-based social network and RChain was developed as the underlying technology. The Synereo founders decided to split in order to allow the Synereo team to focus on delivering a social network with existing blockchain technology, and for Greg to focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 – January 2017.
+RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016, while Greg was with Synereo. Synereo's goal was to create a blockchain-based social network and RChain was developed as the underlying technology. The Synereo founders decided to split in order to allow the Synereo team to focus on delivering a social network with existing blockchain technology, and for Greg to focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 - January 2017.
 
 
 ## Cooperative
@@ -30,7 +30,7 @@ RChain was the culmination of a number of innovations by founder Greg Meredith. 
 The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [RChain Holdings](http://rchain.io/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
 
 **Where is RChain based?**  \
-The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
+The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington State USA companies and the founders live in Seattle.
 
 **What is the governance model?**  \
 The Co-op is a member-driven organization with an elected nine-person [Board of Directors](https://www.rchain.coop/#team). Board seats have 3, 2, or 1 year terms. The board is composed of:
@@ -41,10 +41,10 @@ The Co-op is a member-driven organization with an elected nine-person [Board of 
 
 The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Lise Rice, Treasurer.
 
-There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but are limited to 11 working members plus a chair.
+There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but some are limited to 11 working members plus a chair.
 
 **What comm channels does the Co-op use?**
-- Co-op members, leadership and developers share a private Discord server. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
+- Co-op members, leadership, and developers share a private Discord server. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
 - RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment.
 - [Github](https://github.com/rchain/) is used for code and project coordination.
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.
@@ -53,8 +53,8 @@ There are three steering committees where Members collaborate to shape and organ
 - There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
 - The [RChain forum](https://bitcointalk.org/index.php?topic=1747033.0) on Bitcointalk needs attention.
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!
-- The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.
 - RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
+- The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.
 - To review past Debrief Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
 
 
@@ -91,7 +91,7 @@ Not directly; the redemption period ended in April 2017. AMPs and RHOCs are trad
 ## Members
 
 **How can I get involved with RChain?**  \
-Join one of the public forums open for discussion (see the Comm Channels above). People who want play a more active role can collaborate on projects to create Co-op infrastructure and work out its governance. To participate they need to become a Co-op Member.
+Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on coding projects, create Co-op infrastructure, and work out its governance. To participate they need to become a Co-op Member.
 
 **What is the Membership Program?**  \
 Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends, which will depend on having a working RChain blockchain. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).

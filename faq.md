@@ -45,9 +45,10 @@ There are three steering committees where Members collaborate to shape and organ
 
 **What comm channels does the Co-op use?**
 - Co-op members, leadership, and developers share a private Discord server. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
+- Non-members are welcome to join a [public Discord server](https://discord.gg/fvY8qhx) which serves as a lobby and is currently bridged with the old Slack #community channel.
 - RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment.
 - [Github](https://github.com/rchain/) is used for code and project coordination.
-- The [RChain Twitter account](https://twitter.com/rchain_coop/) sends news and announcements.
+- The [RChain Twitter account](https://twitter.com/rchain_coop/) provides news and announcements.
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.
 - There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
@@ -69,10 +70,10 @@ Here's the [financial summary, distribution, and other information](https://docs
 At the first Member Meeting in October 2017 the Members voted that "The Cooperative should sell from its treasury to put no more than 200 million RHOC tokens in circulation (tokens held by anyone, other than; 1) held by the Cooperative, or 2) burned) during the next calendar year." The full voting results are [reported on Medium](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33).
 
 **How do I see my RHOCs  in myetherwallet.com?**  \
-Click Add Custom Token, then fill in:  \
+Click “Add Custom Token”, then fill in:  \
 Contract Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5  \
 Token Symbol: RHOC  \
-Decimals:  8
+Decimals: 8
 
 **Where can I trade RHOCs?**  \
 Currently on EtherDelta, OasisDex, and SingularX (these require an Ethereum client such as Metamask, Parity, or Mist):  \
@@ -94,7 +95,7 @@ Not directly; the redemption period ended in April 2017. AMPs and RHOCs are trad
 Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on coding projects, create Co-op infrastructure, and work out its governance. To participate they need to become a Co-op Member.
 
 **What is the Membership Program?**  \
-Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends, which will depend on having a working RChain blockchain. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
+Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
 
 **I live outside of the United States. Can I join as a Member?**  \
 Yes, unless you reside in a region sanctioned by the US. The registration process will check that.
@@ -109,16 +110,16 @@ Yes. The first step is to [register as a Member](https://member.rchain.coop), th
 ## Developers
 
 **What is Pi Calculus?**  \
-“In theoretical computer science, the π-calculus is a process calculus. The π-calculus allows channel names to be communicated along the channels themselves, and in this way it is able to describe concurrent computations whose network configuration may change during the computation.” (From [https://en.wikipedia.org/wiki/Pi-calculus](https://en.wikipedia.org/wiki/Pi-calculus)). To better understand how it is being applied in the RChain development, you can reference the paper [Mobile process calculi for programming the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.readthedocs.io/en/latest/).
+“In theoretical computer science, the π-calculus is a process calculus. The π-calculus allows channel names to be communicated along the channels themselves, and in this way it is able to describe concurrent computations whose network configuration may change during the computation.” (Ref.: [https://en.wikipedia.org/wiki/Pi-calculus](https://en.wikipedia.org/wiki/Pi-calculus)). To better understand how it is being applied in the RChain development, check out the paper [Mobile process calculi for programming the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.readthedocs.io/en/latest/).
 
 **What skills do I need to participate?**  \
 At this point the entire development focus is on the core platform. If you’re a seasoned developer willing to learn a new programming language (Rholang), have experience with functional programming, appreciate formal specifications, or have expertise in comms then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
 
 **How can I learn Rholang?**  \
-An understanding of Pi Calculus will help. Join the Slack #Rholang channel and ask questions.
+An understanding of Pi Calculus will help. Join the Discord #rholang channel and ask questions.
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.
 
-### *Suggestions*
+### *Suggestions?*
 Have a question that hasn't been answered? You can suggest additional FAQ entries by including the hashtag #faq in any of the comm channels.

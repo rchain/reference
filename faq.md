@@ -36,7 +36,7 @@ The [Co-op](https://www.rchain.coop) is the organization that develops the open-
 The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
 
 **What is the governance model?**  
-The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
+The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. Ask on [RChain's Discord](https://discord.gg/fvY8qhx) for more information.
 
 **What is the Membership Program?**  
 A program is being developed, but some aspects depend on having a working RChain blockchain. Permission from each of the 50 US states is needed in order to charge a membership fee and this process should be complete in the 4th quarter of 2017.
@@ -106,7 +106,7 @@ Yes. The first step is to [register as an Activist](https://docs.google.com/form
 At this point the entire development focus is on the core platform. If you’re a seasoned developer willing to learn a new programming language (Rholang), have experience with functional programming, appreciate formal specifications, or have expertise in comms then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as an Activist](https://docs.google.com/forms/d/e/1FAIpQLSecwGUVFNx_Xa_Qsw5bxLnaKstPS8kQnfrUGqpuf22rLDteDg/viewform?fbzx=-4415397049662474000) and put yourself in the Talent Pool.
 
 **How can I learn Rholang?**  
-An understanding of Pi Calculus will help. Join the Slack #Rholang channel and ask questions.
+An understanding of Pi Calculus will help. Join the [RChain's Discord](https://discord.gg/fvY8qhx) and ask to find out more.
 
 **What will the license be for RChain's components?**  
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.

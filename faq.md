@@ -18,7 +18,8 @@ RChain is a fundamentally new blockchain platform rooted in a formal model of co
 See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 
 **Where is the roadmap?**  \
-A snapshot of the platform [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing) is available for commentary. The team has not yet committed to specific schedule dates.
+A new roadmap is being worked on, resulting from the Developer Retreat in November. There's a graphic at the top of https://rchain.atlassian.net/wiki/spaces/CORE/overview that gives a 50,000-foot view. A somewhat out-of-date snapshot of the platform is available in the [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing). 
+<!-- Needs coordination with Medha for up-to-date info links -->
 
 **How did RChain come to be?**  \
 RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016, while Greg was with Synereo. Synereo's goal was to create a blockchain-based social network and RChain was developed as the underlying technology. The Synereo founders decided to split in order to allow the Synereo team to focus on delivering a social network with existing blockchain technology, and for Greg to focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 - January 2017.
@@ -39,7 +40,7 @@ The Co-op is a member-driven organization with an elected nine-person [Board of 
 - 2 years: Kenny Rowe, Evan Jensen, Alexandr Bulkin
 - 1 year: Navneet Suman, Hendrik Jan Hilbolling, David Currin
 
-The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Lise Rice, Treasurer.
+The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Lisa Rice, Treasurer.
 
 There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but some are limited to 11 working members plus a chair.
 
@@ -113,7 +114,7 @@ Yes. The first step is to [register as a Member](https://member.rchain.coop), th
 “In theoretical computer science, the π-calculus is a process calculus. The π-calculus allows channel names to be communicated along the channels themselves, and in this way it is able to describe concurrent computations whose network configuration may change during the computation.” (Ref.: [https://en.wikipedia.org/wiki/Pi-calculus](https://en.wikipedia.org/wiki/Pi-calculus)). To better understand how it is being applied in the RChain development, check out the paper [Mobile process calculi for programming the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.readthedocs.io/en/latest/).
 
 **What skills do I need to participate?**  \
-At this point the entire development focus is on the core platform. If you’re a seasoned developer willing to learn a new programming language (Rholang), have experience with functional programming, appreciate formal specifications, or have expertise in comms then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
+At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
 
 **How can I learn Rholang?**  \
 An understanding of Pi Calculus will help. Join the Discord #rholang channel and ask questions.

@@ -53,7 +53,7 @@ There are three steering committees where Members collaborate to shape and organ
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.
 - There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
-- The [RChain forum](https://bitcointalk.org/index.php?topic=1747033.0) on Bitcointalk needs attention.
+- On Bitcointalk there is a [[ANN] Official RChain Cooperative](https://bitcointalk.org/index.php?topic=2494040) thread.
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!
 - RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.

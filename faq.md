@@ -36,7 +36,7 @@ The [Co-op](https://www.rchain.coop) is the organization that develops the open-
 The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
 
 **What is the governance model?**  
-The Co-op currently has a five-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
+The Co-op currently has a nine-person [Board of Directors](https://www.rchain.coop/coop-information-1#board-of-directors). The officers are Greg Meredith, President, and Evan Jensen, Secretary. The Co-op is a member-driven organization, and the membership drive will begin once the regulation-related filings are completed for all U.S. states [and other jurisdictions?]. Additional board members and officers may be added. A membership meeting is planned for October 2017 in which elections will be held. Join the [RChain Slack](http://slack.rchain.coop) to learn specifics as plans take shape.
 
 **What is the Membership Program?**  
 A program is being developed, but some aspects depend on having a working RChain blockchain. Permission from each of the 50 US states is needed in order to charge a membership fee and this process should be complete in the 4th quarter of 2017.

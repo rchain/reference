@@ -35,7 +35,6 @@ The [Co-op](https://www.rchain.coop) is the organization that develops the open-
 **Where is RChain based?**  
 The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington USA companies and the founders live in Seattle.
 
-
 - 3 years: Greg Meredith, Vlad Zamfir, Ian Bloom
 - 2 years: Kenny Rowe, Evan Jensen, Alexandr Bulkin
 - 1 year: Navneet Suman, Hendrik Jan Hilbolling, David Currin

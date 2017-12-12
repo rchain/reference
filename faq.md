@@ -109,8 +109,9 @@ Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRI
 **What skills do I need to participate?**  \
 At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
 
-**How can I learn Rholang?**  \
-An understanding of Pi Calculus will help. Join the Discord #rholang channel and ask questions.
+**How can I learn Rholang?**  
+An understanding of Pi Calculus will help. Join the [RChain's Discord](https://discord.gg/fvY8qhx) and ask to find out more.
+
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.

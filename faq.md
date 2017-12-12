@@ -77,14 +77,7 @@ Token Symbol: RHOC  \
 Decimals: 8
 
 **Where can I trade RHOCs?**  \
-Currently on EtherDelta, OasisDex, and SingularX (these require an Ethereum client such as Metamask, Parity, or Mist):  \
-[https://etherdelta.github.io/#RHOC-ETH](https://etherdelta.github.io/#RHOC-ETH)  \
-[https://oasisdex.com/](https://oasisdex.com/)  \
-[https://ex.singularx.com/exchange/RHOC/ETH](https://ex.singularx.com/exchange/RHOC/ETH)  \
-For a How-To see [How to deal on exchanges like OasisDex or EtherDelta](https://github.com/rchain/Members/issues/45).
-
-**When will RHOCs be on the major crypto exchanges?**  \
-The community is working on this but it’s still early days for RHOCs. Interested individuals can make requests to the exchanges and coordinate with participating Members for documentation needed.
+RChain has not endorsed RHOC trading because of the structure of our private sale and may endorse in coming days.
 
 **Is it possible to redeem AMPs for RHOCs?**  \
 Not directly; the redemption period ended in April 2017. AMPs and RHOCs are tradable on exchanges.

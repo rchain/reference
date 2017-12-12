@@ -52,8 +52,8 @@ There are three steering committees where Members collaborate to shape and organ
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) provides news and announcements.
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.
-- There are [RChain](https://www.reddit.com/r/rchain/) and [RChain_Official](https://www.reddit.com/r/RChain_Official/) subs on Reddit.
-- On Bitcointalk there is a [[ANN] Official RChain Cooperative](https://bitcointalk.org/index.php?topic=2494040) thread.
+- On Reddit there is an official subreddit at [/r/rchain](https://www.reddit.com/r/rchain/).
+- Bitcointalk has an [[ANN] Official RChain Cooperative](https://bitcointalk.org/index.php?topic=2494040) thread.
 - The Cooperative has a [Facebook](https://www.facebook.com/rchaincooperative/) and [LinkedIn](https://www.linkedin.com/company/24997313/) account with an RChain Group. Please join!
 - RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.
@@ -70,7 +70,7 @@ Here's the [financial summary, distribution, and other information](https://docs
 
 At the first Member Meeting in October 2017 the Members voted that "The Cooperative should sell from its treasury to put no more than 200 million RHOC tokens in circulation (tokens held by anyone, other than; 1) held by the Cooperative, or 2) burned) during the next calendar year." The full voting results are [reported on Medium](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33).
 
-**How do I see my RHOCs  in myetherwallet.com?**  \
+**How do I see my RHOCs in myetherwallet.com and Metamask?**  \
 Click “Add Custom Token”, then fill in:  \
 Contract Address: 0x168296bb09e24a88805cb9c33356536b980d3fc5  \
 Token Symbol: RHOC  \
@@ -86,7 +86,7 @@ Not directly; the redemption period ended in April 2017. AMPs and RHOCs are trad
 ## Members
 
 **How can I get involved with RChain?**  \
-Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on coding projects, create Co-op infrastructure, and work out its governance. To participate they need to become a Co-op Member.
+Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on code and community development projects, create Co-op infrastructure, and work out its governance. See [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md) for full information.
 
 **What is the Membership Program?**  \
 Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
@@ -98,7 +98,7 @@ Yes, unless you reside in a region sanctioned by the US. The registration proces
 Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/).
 
 **Can I earn RHOCs by participating in projects?**  \
-Yes. The first step is to [register as a Member](https://member.rchain.coop), then find projects you’d like to participate in.
+Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md), then look for projects you’d like to participate in.
 
 
 ## Developers

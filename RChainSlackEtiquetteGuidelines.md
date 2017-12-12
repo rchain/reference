@@ -3,7 +3,7 @@
 
 ## Overview  
 
-The RChain slack channel (ourchain.slack.com) is a tool to enable real-time cooperation and collaboration that will further the progression of the RChain platform and ecosystem. 
+The RChain's private Discord chat is used to enable real-time cooperation and collaboration that will further the progression of the RChain platform and ecosystem. If you're not a member, you can [join the publically available Discord](https://discord.gg/fvY8qhx), where non-members can interact with the rest of the community.
 
 It’s important to us that the individuals who are driving results for the RChain community feel comfortable engaging with the community regularly. Therefore:
 

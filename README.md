@@ -39,6 +39,7 @@ Here's a collection of useful links at an easy to remember uri.
 | Architecture Document | http://rchain-architecture.readthedocs.io/en/latest/  |
 | Bitcointalk | https://bitcointalk.org/index.php?topic=1747033.0 |
 | Consider.it | https://rchain.consider.it  |
+| Discord | https://discord.gg/fvY8qhx |
 | Github | https://github.com/rchain |
 | LinkedIn | https://www.linkedin.com/groups/13523972/profile |
 | Official Website | https://rchain.coop |

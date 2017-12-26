@@ -31,3 +31,18 @@ Here's a collection of useful links at an easy to remember uri.
 * [Articles of Incorporation, Bylaws, and board minutes](https://github.com/rchain/board)
 
 * [Other legal documents](https://github.com/rchain/legaldocs)
+
+## Important Links
+
+| Media | Description |
+| --- | --- |
+| Architecture Document | http://rchain-architecture.readthedocs.io/en/latest/  |
+| Bitcointalk | https://bitcointalk.org/index.php?topic=1747033.0 |
+| Consider.it | https://rchain.consider.it  |
+| Github | https://github.com/rchain |
+| LinkedIn | https://www.linkedin.com/groups/13523972/profile |
+| Official Website | https://rchain.coop |
+| Reddit | https://www.reddit.com/r/RChain/ |
+| Slack | https://ourchain.slack.com |
+| Twitter | https://twitter.com/rchain_coop |
+| Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |

@@ -18,7 +18,7 @@ RChain is a fundamentally new blockchain platform rooted in a formal model of co
 See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 
 **Where is the roadmap?**  \
-A new roadmap is being worked on, resulting from the Developer Retreat in November. There's a graphic at the top of https://rchain.atlassian.net/wiki/spaces/CORE/overview that gives a 50,000-foot view. A somewhat out-of-date snapshot of the platform is available in the [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing). 
+A new roadmap is being worked on, resulting from the Developer Retreat in November. There's a graphic at the top of https://rchain.atlassian.net/wiki/spaces/CORE/overview that gives a 50,000-foot view. A somewhat out-of-date snapshot of the platform is available in the [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing).
 <!-- Needs coordination with Medha for up-to-date info links -->
 
 **How did RChain come to be?**  \
@@ -45,9 +45,7 @@ The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Lisa R
 There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but some are limited to 11 working members plus a chair.
 
 **What comm channels does the Co-op use?**
-- Co-op members, leadership, and developers share a private Discord server. To become a member and access Discord, please register at [https://member.rchain.coop](https://member.rchain.coop).
-- Non-members are welcome to join a [public Discord server](https://discord.gg/fvY8qhx) which serves as a lobby and is currently bridged with the old Slack #community channel.
-- RChain Co-op's [Slack Team](https://ourchain.slack.com) is being phased out because Slack has changed its policy regarding new invitations. This policy change affects not just RChain, but all large Slack teams that support open enrollment.
+- Co-op members, leadership, and developers share a [public Discord server](https://discord.gg/fvY8qhx). To have full access to all of the Discord channels please become a Member at [https://member.rchain.coop](https://member.rchain.coop). The #lobby channel is bridged with the old [Slack](https://ourchain.slack.com) which has been phased out.
 - [Github](https://github.com/rchain/) is used for code and project coordination.
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) provides news and announcements.
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
@@ -89,7 +87,7 @@ Not directly; the redemption period ended in April 2017. AMPs and RHOCs are trad
 Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on code and community development projects, create Co-op infrastructure, and work out its governance. See [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md) for full information.
 
 **What is the Membership Program?**  \
-Interested individuals can become a Member of the Co-op. Benefits include: access to the private Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
+Interested individuals can become a Member of the Co-op. Benefits include: access to all channels of the Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please visit [https://member.rchain.coop](https://member.rchain.coop).
 
 **I live outside of the United States. Can I join as a Member?**  \
 Yes, unless you reside in a region sanctioned by the US. The registration process will check that.
@@ -109,9 +107,8 @@ Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRI
 **What skills do I need to participate?**  \
 At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
 
-**How can I learn Rholang?**  
-An understanding of Pi Calculus will help. Join the [RChain's Discord](https://discord.gg/fvY8qhx) and ask to find out more.
-
+**How can I learn Rholang?**
+An understanding of Pi Calculus will help. Join the [RChain Discord](https://discord.gg/fvY8qhx) and inquire to find out more.
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.

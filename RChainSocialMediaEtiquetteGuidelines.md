@@ -1,4 +1,4 @@
-# RChain Slack - Etiquette & Guidelines
+# RChain Social Media - Etiquette & Guidelines
 
 
 ## Overview  
@@ -36,7 +36,5 @@ It’s important to us that the individuals who are driving results for the RCha
   
 We will continually strive to create an environment where RChain grows rapidly and attracts top talent from around the world.
 
-
 Cheers,
-
 The RChain Team

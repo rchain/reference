@@ -50,14 +50,14 @@ Here's a collection of useful links at an easy to remember uri.
 
 | Media | Description |
 | --- | --- |
+| Casper PoS Youtube | https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA/videos |
 | Discord | https://discord.gg/fvY8qhx |
 | Github | https://github.com/rchain |
 | LinkedIn | https://www.linkedin.com/company/rchain-cooperative/ |
 | Official Website | https://rchain.coop |
-| Reddit | https://www.reddit.com/r/RChain/ |
-| Twitter | https://twitter.com/rchain_coop |
+| RChain Holdings | https://rchain.io | 
 | RChain Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |
-| Casper PoS Youtube | https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA/videos |
+| Reddit | https://www.reddit.com/r/RChain/ |
 | Telegram Group| https://t.me/rchain_coop |
 | Telegram Announcements Channel | https://t.me/rchain_official |
-| RChain Holdings | https://rchain.io | 
+| Twitter | https://twitter.com/rchain_coop |

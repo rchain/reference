@@ -58,6 +58,6 @@ Here's a collection of useful links at an easy to remember uri.
 | Twitter | https://twitter.com/rchain_coop |
 | RChain Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |
 | Casper PoS Youtube | https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA/videos |
-| Telegram | https://t.me/rchain_coop |
-| Telegram Announcements | https://t.me/rchain_official |
+| Telegram Group| https://t.me/rchain_coop |
+| Telegram Announcements Channel | https://t.me/rchain_official |
 | RChain Holdings | https://rchain.io | 

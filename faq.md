@@ -49,6 +49,7 @@ There are three steering committees where Members collaborate to shape and organ
 - [Github](https://github.com/rchain/) is used for code and project coordination.
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) provides news and announcements.
 - On Telegram there is a [RChain chat group](https://t.me/rchain_coop) and official [Announcements channel](https://t.me/rchain_official).
+- Chinese users can join the QQ RChain group: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666.
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.
 - On Reddit there is an official subreddit at [/r/rchain](https://www.reddit.com/r/rchain/).

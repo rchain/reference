@@ -1,0 +1,178 @@
+The Co-op’s developer team is pleased to announce the initial milestone release of our RChain node software: Node.Hello (v0.1).
+
+This package marks the first of many pre-production release milestones along our flight to Mercury. This pre-alpha software release demonstrates the RChain network communications system and is available for interested parties to assist in tests.
+
+Node.Hello will discover the RChain bootstrap node, detect other active RChain nodes, and form the RChain peer-to-peer network. The network layer is the lowest level component in the architecture that will eventually support RChain’s large-scale blockchain operations.
+
+Detailed documentation on the release can be found in Github:
+
+[https://github.com/rchain/rchain/tree/v0.1/comm](http://s6678322.stat-pulse.com/go/ec/%7B%7BEmailCode%7D%7D/ci/NTQ1NDEyNw==/ui/NjY3ODMyMg==/h/28edd3380a1c17cf65b137fe96516659/li/MTI1NDkxNjAw/re/%7B%7Bb64_email%7D%7D/l/aHR0cHMlM0ElMkYlMkZnaXRodWIuY29tJTJGcmNoYWluJTJGcmNoYWluJTJGdHJlZSUyRnYwLjElMkZjb21t/)
+
+In addition to building from GitHub, users may opt to download a Docker image from Docker hub here:
+
+[https://store.docker.com/community/images/rchain/rchain-comm](http://s6678322.stat-pulse.com/go/ec/%7B%7BEmailCode%7D%7D/ci/NTQ1NDEyNw==/ui/NjY3ODMyMg==/h/28edd3380a1c17cf65b137fe96516659/li/MTI1NDkxNjAx/re/%7B%7Bb64_email%7D%7D/l/aHR0cHMlM0ElMkYlMkZzdG9yZS5kb2NrZXIuY29tJTJGY29tbXVuaXR5JTJGaW1hZ2VzJTJGcmNoYWluJTJGcmNoYWluLWNvbW0=/)
+
+We invite all community members to test the code and provide developer feedback and ask questions:
+
+- Questions & Comments via our Gitter channel -[https://gitter.im/rchain/Releases](http://s6678322.stat-pulse.com/go/ec/%7B%7BEmailCode%7D%7D/ci/NTQ1NDEyNw==/ui/NjY3ODMyMg==/h/28edd3380a1c17cf65b137fe96516659/li/MTI1NDkxNjAy/re/%7B%7Bb64_email%7D%7D/l/aHR0cHMlM0ElMkYlMkZnaXR0ZXIuaW0lMkZyY2hhaW4lMkZSZWxlYXNlcw==/)
+
+- Bugs can be filed on our Jira using this link -[https://goo.gl/DdP48u](http://s6678322.stat-pulse.com/go/ec/%7B%7BEmailCode%7D%7D/ci/NTQ1NDEyNw==/ui/NjY3ODMyMg==/h/28edd3380a1c17cf65b137fe96516659/li/MTI1NDkxNjAz/re/%7B%7Bb64_email%7D%7D/l/aHR0cHMlM0ElMkYlMkZnb28uZ2wlMkZEZFA0OHU=/)
+
+Please keep an eye out for additional milestone components in coming weeks.
+
+  
+
+#### Community Debrief Summaries
+
+Every Wednesday at 11AM PST, the team joins in a hangout that streams to RChain’s YouTube channel. 
+
+Below are timestamps with accompanying documents from the past two debriefing hangouts.
+
+December 27th - Community Debrief 57
+
+
+[- Intro: Greg talks the "year-end" proposals to purchase RHOC](https://youtu.be/cnvfG2E-NaM)
+ 
+[RChain to collaborate with plantoid project at Burning Man](https://youtu.be/cnvfG2E-NaM?t=8m27s)
+
+[Update on RChain Ventures proposal](https://youtu.be/cnvfG2E-NaM?t=11m29s)
+
+[Pyrofex to create Cryptofex: Developer Tools on RChain: Details](https://youtu.be/cnvfG2E-NaM?t=12m52s)
+
+[Q&A For Nash Foster: CEO of Pyrofex](https://youtu.be/cnvfG2E-NaM?t=16m55s)
+
+- How will Cryptofex effect RChain Development? 
+- How transparent will Pyrofex be in regards to Cryptofex information? 
+- Will there be open source components to what Pyrofex is delivering? 
+
+[Introduction to Daniel](https://youtu.be/cnvfG2E-NaM?t=27m)
+
+[Greg describes a blockchain beyond currency](https://youtu.be/cnvfG2E-NaM?t=28m46s)
+
+[Further update around RChain Ventures and RChain Holdings](https://youtu.be/cnvfG2E-NaM?t=35m28s)
+
+[Resonate has formalized a proposal for RChain music DApp ecosystem](https://youtu.be/cnvfG2E-NaM?t=42m19s)
+
+[Q&A about Ventures and Proposals to purchase RHOCs](https://youtu.be/cnvfG2E-NaM?t=49m47s)
+
+[Greg unveils how RChain has the future-proof architecture for the impending quantum computing revolution](https://youtu.be/cnvfG2E-NaM?t=1h8m15s)
+  
+  
+
+December 20th - Community Debrief 56
+
+[Greg describes the attack on his phone and discord](https://youtu.be/1WVOIj8ZYcs?t=4m24s)
+
+[Medha announces node.hello, rholang spec 0.2 and developer site release for January](https://youtu.be/1WVOIj8ZYcs?t=14m59s)
+
+[Chris demo of the first node release](https://youtu.be/1WVOIj8ZYcs?t=17m23s)
+
+[Greg describes the board meeting in regards to offers for purchase](https://youtu.be/1WVOIj8ZYcs?t=31m)
+
+[Other updates on Governance and Resonate dealing](https://youtu.be/1WVOIj8ZYcs?t=44m34s)
+
+[Lisa explains the current financials](https://youtu.be/1WVOIj8ZYcs?t=51m15s)
+
+[Greg closes the discussion talking about mathematics](https://youtu.be/1WVOIj8ZYcs?t=58m58s)
+
+
+  
+
+December 13th - Community Debrief 55
+
+[Greg Introduction: Just back from london](https://youtu.be/ZRUZ5HEgZLo?t=1m21s)
+
+[Mike and Greg had convo on Rholang 0.2 Spec](https://youtu.be/ZRUZ5HEgZLo?t=5m11s)
+
+[Medha gives development update](https://youtu.be/ZRUZ5HEgZLo?t=5m46s)
+
+[Discussions around offers to purchase RHOCs](https://youtu.be/ZRUZ5HEgZLo?t=8m56s)
+
+[Discussion around RChain Ventures](https://youtu.be/ZRUZ5HEgZLo?t=19m44s)
+
+[Lisa talks accounting and tax liabilities](https://youtu.be/ZRUZ5HEgZLo?t=37m5s)
+
+  
+
+#### In Other News
+
+There was an important Board Meeting. Here is the summary from Greg M.
+
+- The board approved the year's end transactions. 
+
+- The vote was 6 to 2 in favor with one member not present. 
+
+- It is important for people to understand that two members voted against because they were worried about potential regulatory issues. 
+  
+- The board and I [Greg M.] felt that the principal justification has to do with our improved view of the budget forecasting and understanding of the demands for advancing the Cooperative's mission for Mercury and beyond. 
+
+- We encourage any questions regarding the decision at the RChain Community hangout next week. 
+
+- The board also approved the substance of the Pyrofex deal. Details below. 
+
+- There was a request that I [Greg M.] negotiate a tranched delivery of the RHOCs. 
+ 
+- I spoke with Nash and he was generally amenable to this structure. 
+
+- Finally, the board voted to give a counter offer to RChain Ventures that sets it up along the lines of a more traditional fund with the Ventures team as managers of the fund. 
+  
+
+The Co-op Board of Directors has officially approved its deal with Pyrofex for ongoing development work, as well as for the creation of the Cryptofex developer tool/environment! Below is a summary of the main points. 
+
+- Pyrofex has extended their service agreement for development of the RChain platform for another two years.  
+  
+- Pyrofex will aid in the organization and hosting of RChain conferences such as the Developer Retreat. 
+  
+- Pyrofex will develop the Cryptofex Software Development Tools which shall consist of an integrated software development environment including an app store which will allow developers to create smart contracts optimized for the RChain platform and able to take advantage of RChain’s specific features. Cryptofex will include a tool kit to allow for the easy migration of code from the Ethereum environment to RChain. 
+ 
+- RChain will compensate Pyrofex with 2 Million worth of liquid assets, for the extension of the service agreement.  
+
+- RChain will transfer about 5 Million worth of RHOCs to pyrofex in consideration of the commitment to produce the Cryptofex Software development tools. 
+  
+  
+
+In regards to partnerships, there are few (fairly vague) more updates on that subject. More details will be release in the coming weeks/months. 
+
+
+- The Co-op Board of Directors has formulated a counter offer to the RChain Ventures group. Look for an update in the debrief on Wednesday.  
+
+- The team at Resonate has formulated a proposal to build out a music DApp ecosystem in collaboration with RChain.  
+
+- RChain holdings has multiple partnerships in the work and plans to make announcements in early 2018.  
+  
+
+
+In light of recent discussions around decision making process’ and co-op operations, the topic of  Blockchain Governance and cooperative governance is becoming more and more apparent. Leadership is aware of this and will be opening up for proposals for decision making process’ for the Board, Committees and Membership alike. 
+
+The dates for the governance conference will be finalized shortly but it’s looking like the middle of February, 2018.  You can collaborate on the agenda through this github issue [https://github.com/rchain/Members/issues/189](https://github.com/rchain/Members/issues/189) which we plan to finalize on the second week of January. 
+
+
+
+In other news, a few articles have been published related to RChain.
+
+- Michael Birch formulated a post around his recent simulation of the RChain’s Correct-by-Construction Casper implementation. Read the post “[A Visualization of the future of Blockchain Consensus](https://medium.com/rchain-cooperative/a-visualization-for-the-future-of-blockchain-consensus-b6710b2f50d6).” 
+  
+- In a phenomenal moment of autonomous activity, Reinman, an experienced developer in the space, decided to write a thought provoking piece “[Adventures in the Rho-Calculus”](https://medium.com/@reinman/adventures-in-the-rho-calculus-672b72ef16c4) 
+  
+- Jake Gillberg, developer and RChain member begun his series [“RChain Developer Retreat Roundup (Part 1 of 3)”](https://medium.com/rchain-cooperative/rchain-developer-retreat-roundup-day-1-759091f53795) 
+
+
+Happy New Year, we hope that you had a wonderful 2017.
+
+The whole community is REVing up for what will be an impactful 2018 as we take off to the Mercury release!
+
+Lastly we would like to leave you with a video expanding upon the mathematics that was the seed of the RChain Cooperative movement.  
+
+[https://www.youtube.com/watch?v=6ThpFjhTpmQ](https://www.youtube.com/watch?v=6ThpFjhTpmQ)
+
+#### More Information
+
+Website [rchain.coop](http://rchain.coop)
+
+Join the membership through [member.rchain.coop](http://member.rchain.coop).
+  
+Collaborators are most welcome on [Github/Rchain/Members](https://github.com/rchain/Members). 
+
+Also see [rchain.io](http://rchain.io), the RChain Holdings, Inc. website. 
+
+Cheers

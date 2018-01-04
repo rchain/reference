@@ -30,6 +30,7 @@ Here's a collection of useful links at an easy to remember uri.
 * [Enriched Lawvere Theories for Operational Semantics: 2017-06-07](https://golem.ph.utexas.edu/category/2017/06/gphenriched_lawvere_theories_f.html)
 * [Eliminating Binders for Easier Operational Semantics: 2017-06-10](https://golem.ph.utexas.edu/category/2017/06/eliminating_binders_for_easier.html)
 * [The Cooperative Annual Meeting Summary](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33)
+* [RChain Developer Retreat Roundup(Part 1 of 3): 2017-12-31](https://medium.com/rchain-cooperative/rchain-developer-retreat-roundup-day-1-759091f53795)
 
 ## Talks
 

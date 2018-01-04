@@ -2,6 +2,10 @@
 
 Here's a collection of useful links at an easy to remember uri.
 
+## Developers
+
+* [RChain wiki](https://rchain.atlassian.net/wiki/spaces/CORE/overview) - All development related items
+
 ## Documentation
 
 * [RChain Platform Architecture: 2017-07-22](http://rchain-architecture.readthedocs.io/)
@@ -56,6 +60,7 @@ Here's a collection of useful links at an easy to remember uri.
 | Github | https://github.com/rchain |
 | LinkedIn | https://www.linkedin.com/company/rchain-cooperative/ |
 | Official Website | https://rchain.coop |
+| RChain Developer | https://rchain.atlassian.net/wiki/spaces/CORE/overview |
 | RChain Holdings | https://rchain.io | 
 | RChain Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |
 | Reddit | https://www.reddit.com/r/RChain/ |

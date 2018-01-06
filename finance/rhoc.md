@@ -15,7 +15,7 @@
 
 | Owner | Description | Address | Original | Current | 
 | --- | --- | --- | --- | --- |
-| External | Owned by others (Calculated - Includes Holdings tokens)  | In circulation as of Jan 3, 2018|  | 234,292,181.1 |
+| External | Owned by others (Calculated - Includes Holdings tokens)  | In circulation as of Jan 5, 2018|  | 240,036,224 |
 | RChain Holding| Agreement based | 0xcd9910aea989e9b0b6b3e1192a474b5200e88c6b | 105,000,000 |[See balance](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5?a=0xcd9910aea989e9b0b6b3e1192a474b5200e88c6b) |
 
 

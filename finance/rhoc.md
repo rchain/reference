@@ -1,5 +1,5 @@
 
-#### RHOC distribution
+# RHOC Distribution
 
 | Owner | Description | Address | Original | Current | 
 | --- | --- | --- | --- | --- |
@@ -11,7 +11,7 @@
 |  |  |  |  | |
 | RChain Coop| Current operation | 0xd35a2d8c651f3eba4f0a044db961b5b0ccf68a2d | NA| [See balance](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5?a=0xd35a2d8c651f3eba4f0a044db961b5b0ccf68a2d) |
 
-#### Major holders
+## Major holders
 
 | Owner | Description | Address | Original | Current | 
 | --- | --- | --- | --- | --- |
@@ -19,7 +19,7 @@
 | RChain Holding| Agreement based | 0xcd9910aea989e9b0b6b3e1192a474b5200e88c6b | 105,000,000 |[See balance](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5?a=0xcd9910aea989e9b0b6b3e1192a474b5200e88c6b) |
 
 
-#### Others
+## Others
 
 [Ethplorer](
 https://ethplorer.io/address/0x168296bb09e24a88805cb9c33356536b980d3fc5#pageSize=100&tab=tab-holders) - Listing of all major holder addresses and % holding

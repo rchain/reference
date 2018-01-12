@@ -69,7 +69,7 @@ RHOCs are an Ethereum ERC20 token issued by the Co-op in early 2017 intended as 
 No. Contrary to fraudulent reports circulating on Twitter, no airdrop is in the works or planned.
 
 **What is the plan for supply of RHOCs, REVs, and potential other staking tokens?**  \
-Here's the [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing).
+This is a somewhat outdated [financial summary, distribution, and other information](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing). This is the [current distribution](https://github.com/rchain/reference/blob/master/finance/rhoc.md).
 
 At the first Member Meeting in October 2017 the Members voted that "The Cooperative should sell from its treasury to put no more than 200 million RHOC tokens in circulation (tokens held by anyone, other than; 1) held by the Cooperative, or 2) burned) during the next calendar year." The full voting results are [reported on Medium](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33).
 

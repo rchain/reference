@@ -36,10 +36,10 @@
     <meta content="https://avatars3.githubusercontent.com/u/20671765?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="rchain/Members" property="og:title" /><meta content="https://github.com/rchain/Members" property="og:url" /><meta content="Members - Organization around RChain" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjM4MjU3NDM4OjRiZmU4NDIyODQxMzQ1YTQzOTE5MDczYjNkNjRhMzVkMWFhNjdmY2UwN2ZiNjhlNzlkM2Y3OTUwOWRkNzIzMjE=--d80c14133b0906b9dc70508c010b6db8c196e7d2">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjM5MDUxNzExOjk0MThhMjI1Y2YxYmVhOTBmNjFjZjQ2MDcyZGEzNzhlNmZiNzA0YmMxNTA1YTJhMjEyMWE3Zjc3OTJiNDA5ODQ=--265df2acd7d9c30486f9c25217de57629f1eefd1">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="6F0F:2F92F:10F65AA:18EFDFC:5A587609" data-pjax-transient>
+  <meta name="request-id" content="A46A:2597C:7019B3:88D090:5A5A0D4B" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="6F0F:2F92F:10F65AA:18EFDFC:5A587609" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="20704995" name="octolytics-actor-id" /><meta content="sportshark" name="octolytics-actor-login" /><meta content="26b9be58e1c4174588b5bee4731c6fad60d7734317b7b18c060763b0d49ca586" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="A46A:2597C:7019B3:88D090:5A5A0D4B" name="octolytics-dimension-request_id" /><meta content="sea" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="20704995" name="octolytics-actor-id" /><meta content="sportshark" name="octolytics-actor-login" /><meta content="26b9be58e1c4174588b5bee4731c6fad60d7734317b7b18c060763b0d49ca586" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -64,11 +64,11 @@
   <meta name="user-login" content="sportshark">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MDUzMTU4MGYwOGQ2MTU3OTUxN2UwMDk2M2MzODI5ZGUzYTY0ZjI0ZWU0ZjAzNTQ4MWRkMmFlODc4ZjNjY2E5ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjI0Mi4yNDIuOCIsInJlcXVlc3RfaWQiOiI2RjBGOjJGOTJGOjEwRjY1QUE6MThFRkRGQzo1QTU4NzYwOSIsInRpbWVzdGFtcCI6MTUxNTc0Njg1MywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="MGU4ZTQ1NjQ0OGVhZWJmN2VlZGJlMGQwNWE5NTc2MzRkNTY0YzcyMmRmNmIxMjE1MzE4YmVkMTJhNTczNjg2M3x7InJlbW90ZV9hZGRyZXNzIjoiMjIzLjcyLjYzLjE5OSIsInJlcXVlc3RfaWQiOiJBNDZBOjI1OTdDOjcwMTlCMzo4OEQwOTA6NUE1QTBENEIiLCJ0aW1lc3RhbXAiOjE1MTU4NTEwOTAsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
-  <meta name="html-safe-nonce" content="f545a523b59ec0a23130f1f467d45decdeb5bac0">
+  <meta name="html-safe-nonce" content="1c63e44c002c08df1c052ad934293811bf49897c">
 
   <meta http-equiv="x-pjax-version" content="bf209e2338407b8d335e531f92159bfe">
   
@@ -251,7 +251,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ZyYBHJk9xcn9uKLBF5VRWV52uiAIP5JiV7OL9GxJ5tpQ1XweplZdcBdFF+Jz0swC+EKC3Up9u3qD3Kn4x0HfCw==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YOR2JXC6155MB+TgtKEI22Cym/S0EegpiL+zCAChui44P9Ozgo/9Y1q7MeMrzr8/ihfCHatNJ8Qs8HIm/i0fnQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -262,7 +262,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="0RulVRGdETfci9OAFZCUcsnuG4xyNVEDi5IT5LgkXlbm6NhXLvaJjjZ2ZqNx1wkpb9ojcTB3eBtf/THoEyxnhw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uJFmhU0DZxs6BGOof+9/WIGhHWgTqT0cFUl9TPNRZ77gSsMTvzZN5iy4tqvggMi8awREgQz18vGxBrxiDd3CDQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -299,7 +299,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wOa2MjKUGkISxJb/L+Zr/UwqM4c9NoWnHCGl31CEVOOCfEQT/TUSvXqe2Rsvg5V+YdBTWGdaNIDxKy+8w2mekg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="84472896" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KHscNy2lnmubE7mFsKjPKh/ZkBWVqrF/qfc5sIc0AfQgFkUo/Mu3uvAqzzrUmk7G6AaUIeOcz7S6xP/kDKUOFQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="84472896" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/rchain/Members/subscription"
@@ -379,7 +379,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="7gC6J3h3OLFSIjPniGQ/lzPGxjlQeYQp9lDiXaMcha3ZMTcgBc2wed6bf76B0rwwAtQ6oVwH4rO1JKnTe6i0Ig==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oLnoi/FlsVOzg1tvS4Bl+tXyu584sMRj1qMPw459m3QxSwDQ5aspAI49WHkI76tWGv/gHh8AYTvA4dMR2zvCRw==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -394,7 +394,7 @@
           34
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="bblUsI1sRLwrEDKCFhwln5fo14Hnx3heimn99bt1iQV5Zc9p4ZoiPqqn38yIdBSyIl3X1MoTRlb+AGBkSQlr3w==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/C/cKsaR2J1Hs1IS1spXfrjdjgjY56wrrw1bQTZDVPcjduKFQnCmNbgtX45hz2BpU+KaamAsryO7ndOItn7eHQ==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -413,7 +413,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3EdcXL4gvT9QIzEf06QCDSZdtSgsllkVh5+HbvOi0fSlkq0B4eM+eFidYNii26PrUIuWu9tKqNsNc+MK5viR8Q==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rcUa9kfpy2c35/peeVXe8MFh4noH9/DRIUJA7opznQCY+Ah7kap/mqS9xlc6bKK8Ht9vknX/cziqDwIIvsCXhQ==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -458,7 +458,7 @@
       <a href="/rchain/Members/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /rchain/Members/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">109</span>
+        <span class="Counter">87</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
@@ -494,9 +494,9 @@
   <div class="repository-content ">
 
     
-  <a href="/rchain/Members/blob/37102de8446655e94435a3659e40641f4130abef/projects/faq_cn.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/rchain/Members/blob/cc96a95c3035df4705dd3f8c344a0fc833d93f39/projects/faq_cn.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:50f2eea06b79ef050ffe6a57d50624a7 -->
+  <!-- blob contrib key: blob_contributors:v21:76b539544e2a6c75037946a7bbe90963 -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -549,7 +549,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AmelFQsAxo12rlpFmITOg0aAkTdOt0fklnrInW5hRKCw7AUtMQf1Ww+BLA+fLq3vPhNolXy1atPebPMJ721RjA==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="waHaLFsAEImRHQ0/yh1/nqvKe1qOF4jnYYe0+4F9K8ga3UIgJKR5uX59Dz3GCUG1wWkKpCIM0gfRmWG3/ZLB3g==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -592,23 +592,26 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/rchain/Members/commit/d8831f5bc41ca4997b388c9ce4e2d599c3279dc4" data-pjax>
-          d8831f5
+        <a class="commit-tease-sha" href="/rchain/Members/commit/cc96a95c3035df4705dd3f8c344a0fc833d93f39" data-pjax>
+          cc96a95
         </a>
-        <relative-time datetime="2018-01-03T10:23:11Z">Jan 3, 2018</relative-time>
+        <relative-time datetime="2018-01-13T13:43:13Z">Jan 13, 2018</relative-time>
       </span>
       <div>
-        <img alt="@kitblake" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/912545?s=40&amp;v=4" width="20" />
-        <a href="/kitblake" class="user-mention" rel="contributor">kitblake</a>
-          <a href="/rchain/Members/commit/d8831f5bc41ca4997b388c9ce4e2d599c3279dc4" class="message" data-pjax="true" title="Add Telegram and QQ groups">Add Telegram and QQ groups</a>
+        <img alt="@sportshark" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/20704995?s=40&amp;v=4" width="20" />
+        <a href="/sportshark" class="user-mention" rel="contributor">sportshark</a>
+          <a href="/rchain/Members/commit/cc96a95c3035df4705dd3f8c344a0fc833d93f39" class="message" data-pjax="true" title="Update faq_cn.md">Update faq_cn.md</a>
       </div>
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
+        <strong>2</strong>
+         contributors
       </button>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="kitblake" href="/rchain/Members/commits/master/projects/faq_cn.md?author=kitblake"><img alt="@kitblake" class="avatar" height="20" src="https://avatars3.githubusercontent.com/u/912545?s=40&amp;v=4" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="sportshark" href="/rchain/Members/commits/master/projects/faq_cn.md?author=sportshark"><img alt="@sportshark" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/20704995?s=40&amp;v=4" width="20" /> </a>
+
+
     </div>
 
     <div id="blob_contributors_box" style="display:none">
@@ -617,6 +620,10 @@
           <li class="facebox-user-list-item">
             <img alt="@kitblake" height="24" src="https://avatars2.githubusercontent.com/u/912545?s=48&amp;v=4" width="24" />
             <a href="/kitblake">kitblake</a>
+          </li>
+          <li class="facebox-user-list-item">
+            <img alt="@sportshark" height="24" src="https://avatars3.githubusercontent.com/u/20704995?s=48&amp;v=4" width="24" />
+            <a href="/sportshark">sportshark</a>
           </li>
       </ul>
     </div>
@@ -640,12 +647,13 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/edit/master/projects/faq_cn.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5lfrgWxbzopbJ3BvPVX67SCObLXi1fQJZqCOY7cqJpjcyM3S6dab9kJIKxXzFSzRC0OtWQcla0izV+oGYBdIEA==" /></div>
-          <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-            aria-label="Edit this file" data-hotkey="e" data-disable-with>
-            <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-          </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/delete/master/projects/faq_cn.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EDei4N1mcteescLx0yXqqZVHVGivd5PeEwPyuiDSZxh9mEMsw3VDJqTY3CXIJISfRsOuu5TrhWRirx0ENQjpuw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/edit/master/projects/faq_cn.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cCeNARKNXLwNYmY5Ec98gj9h80SvxuK+pYlFCKt0bpzmgYduo0WYBXxk6Fbikw8snptV3UBdTN4O4bq8675gCA==" /></div>
+            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+              aria-label="Edit this file" data-hotkey="e" data-disable-with>
+              <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+            </button>
+</form>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/rchain/Members/delete/master/projects/faq_cn.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LWqbPqMdfGxEqcycW7D9eqeXxfQkHzkEBUxn+rPafSG1uG8ejkWdwXV7nKNhUa+dmHAhnBtsX7q2IXNTe+bZfg==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -655,7 +663,7 @@
   <div class="file-info">
       137 lines (77 sloc)
       <span class="file-info-divider"></span>
-    9.72 KB
+    9.78 KB
   </div>
 </div>
 
@@ -693,7 +701,7 @@
 <li><a href="https://github.com/rchain/">Github</a>: 被用来进行代码和工程的协调沟通。</li>
 <li><a href="https://twitter.com/rchain_coop/" rel="nofollow">Twitter</a>: 提供新闻和公告的发布和更新。</li>
 <li>On Telegram there is a <a href="https://t.me/rchain_coop" rel="nofollow">RChain chat group</a> and official <a href="https://t.me/rchain_official" rel="nofollow">Announcements channel</a>.</li>
-<li>Chinese QQ Group ID: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666</li>
+<li>中国QQ群 ID: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666</li>
 <li><a href="https://medium.com/rchain-cooperative" rel="nofollow">Medium</a>: 记载了更久远的博客公告。</li>
 <li><a href="https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w" rel="nofollow">Youtube</a>: 中包含更新、直播和各项会议的记录。</li>
 <li><a href="https://www.facebook.com/rchaincooperative/" rel="nofollow">Facebook</a>: 和 <a href="https://www.linkedin.com/company/24997313/" rel="nofollow">LinkedIn</a>: 账户，欢迎加入！</li>
@@ -707,7 +715,7 @@
 <p><strong>RHOC是什么？</strong></p>
 <p>RHOC是以太坊ERC 20代币，于2017年早些时候由RChain合作组织发行，作为将来RChain的兑换凭证。目前有 861,185,194 RHOC存在，以后不会再发行更多的币. REV是未来RChain的基础货币，在RChain正式网络上线后，RHOC将1:1兑换REV。</p>
 <p><strong>RHOC,REV和其他原生代币的未来供应计划是什么？</strong></p>
-<p>报告如下：<a href="https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing" rel="nofollow">https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing</a></p>
+<p>这是一份已经过期的文件 <a href="https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing" rel="nofollow">财务摘要, 分配方案, 和其他信息</a>. 这个是 <a href="https://github.com/rchain/reference/blob/master/finance/rhoc.md">目前的分配方案</a>.</p>
 <p>2017年11月的第一次成员会议决议提出"合作组织不可将超过200,000,000的代币进入流通（包括任何人持有的代币，除合作组织自身持有及下个财政年中焚毁的代币外）"。该决议的全文见 <a href="https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33" rel="nofollow">https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33</a></p>
 <p><strong>如何在 myetherwallet.com中显示代币 and Metamask</strong></p>
 <p>点击 "Add Custom Token", 填写如下信息:  <br>
@@ -766,7 +774,7 @@ Decimals: 8</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.19226s from unicorn-3604673458-52dql">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.16624s from unicorn-3033527669-94knb">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>

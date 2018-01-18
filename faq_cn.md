@@ -65,10 +65,10 @@ RChain合作组织是一个成员驱动的组织，目前被选举的董事会�
 - 中国QQ群 ID: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666
 - [Medium](https://medium.com/rchain-cooperative): 记载了更久远的博客公告。
 - [Youtube](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w): 中包含更新、直播和各项会议的记录。
-- [Facebook](https://www.facebook.com/rchaincooperative/): 和 [LinkedIn](https://www.linkedin.com/company/24997313/): 账户，欢迎加入！
 - Reddit: https://www.reddit.com/r/RChain/
 - Bitcointalk: https://bitcointalk.org/index.php?topic=2494040
-- Slack: https://ourchain.slack.com/ (To be phased out and replaced by Private Discord)
+- [Facebook](https://www.facebook.com/rchaincooperative/): 和 [LinkedIn](https://www.linkedin.com/company/24997313/): 欢迎加入！
+- RChain会发出每周新闻. [网站订阅](https://www.rchain.coop/#joinus) 即可获取这些新闻.
 - 电话会议:Zoom.us 主要被用于电话会议，比如周三的每周报告。
 - 要查看过去的视频摘要和周报可以访问这个 [索引目录](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index)。
 
@@ -78,11 +78,14 @@ RChain合作组织是一个成员驱动的组织，目前被选举的董事会�
 
 RHOC是以太坊ERC 20代币，于2017年早些时候由RChain合作组织发行，作为将来RChain的兑换凭证。目前有 861,185,194 RHOC存在，以后不会再发行更多的币. REV是未来RChain的基础货币，在RChain正式网络上线后，RHOC将1:1兑换REV。
 
+**是否有空投代币？**  \
+没有，与推特上流传的虚假空投文件不同, 目前没有任何计划空投.
+
 **RHOC,REV和其他原生代币的未来供应计划是什么？**
 
 这是一份已经过期的文件 [财务摘要, 分配方案, 和其他信息](https://docs.google.com/document/d/1lCVeO63E-WVosOnBIA2hH416Hs-Z0e1Av9eJWq-L20o/edit?usp=sharing). 这个是 [目前的分配方案](https://github.com/rchain/reference/blob/master/finance/rhoc.md).
 
-2017年11月的第一次成员会议决议提出&quot;合作组织不可将超过200,000,000的代币进入流通（包括任何人持有的代币，除合作组织自身持有及下个财政年中焚毁的代币外）&quot;。该决议的全文见 [https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33)
+2017年11月的第一次成员会议决议提出&quot;合作组织不可将超过200,000,000的代币进入流通（包括任何人持有的代币，除合作组织自身持有及下个财政年中焚毁的代币外）&quot;。该决议的全文见 [官方博客报告](https://medium.com/rchain-cooperative/annual-meeting-summary-3827a82a2e33)
 
 **如何在 myetherwallet.com中显示代币 and Metamask**
 
@@ -119,7 +122,7 @@ RChain还没有认可RHOC交易，由于私下出售的仍未成熟，但其可�
 
 **在参与项目时，可以获得RHOC么？**
 
-是的。请参见 [https://github.com/rchain/Members/blob/master/CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md)，并选择您感兴趣的项目。
+是的。请参见 [贡献文档](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md)，并选择您感兴趣的项目。
 
 ## 5、关于开发人员
 

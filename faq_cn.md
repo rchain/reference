@@ -20,7 +20,7 @@ RChain架构文档链接如下：
 
 **哪里可以看到路线图？**
 
-我们正在研究发布一份全新的路线图，来源于十二月的一次研究人员回馈。在本页面的顶部， [https://rchain.atlassian.net/wiki/spaces/CORE/overview](https://rchain.atlassian.net/wiki/spaces/CORE/overview)给出了一份50，000步的总结。一份略显过时的平台快照可在以下页面中找到 [https://docs.google.com/spreadsheets/d/1\_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
+我们正在研究发布一份全新的路线图，来源于十二月的一次研究人员回馈。在本页面的顶部， [https://rchain.atlassian.net/wiki/spaces/CORE/overview](https://rchain.atlassian.net/wiki/spaces/CORE/overview)给出了一份50，000步的总结。一份略显过时的平台快照可在以下页面中找到 [https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
 
 **RChain是怎么来的?**
 

@@ -2,6 +2,14 @@
 
 RChain中文网站 [http://rchain.site](http://rchain.site)
 
+### 章节
+
+[一般类问题](#general)  \
+[合作组织](#cooperative)  \
+[代币](#tokens)  \
+[会员](#members)  \
+[开发者](#developers)
+
 ## 1、一般类问题
 
 **RChain是什么?**
@@ -20,7 +28,7 @@ RChain架构文档链接如下：
 
 **哪里可以看到路线图？**
 
-我们正在研究发布一份全新的路线图，来源于十二月的一次研究人员回馈。在本页面的顶部， [https://rchain.atlassian.net/wiki/spaces/CORE/overview](https://rchain.atlassian.net/wiki/spaces/CORE/overview)给出了一份50，000步的总结。一份略显过时的平台快照可在以下页面中找到 [https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
+我们正在研究发布一份全新的路线图，来源于十二月的一次研究人员代码精修活动。在本页面的顶部， [https://rchain.atlassian.net/wiki/spaces/CORE/overview](https://rchain.atlassian.net/wiki/spaces/CORE/overview)给出了一份50000步的总结。一份略显过时的平台快照可在以下页面中找到 [https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
 
 **RChain是怎么来的?**
 
@@ -50,7 +58,7 @@ RChain合作组织是一个成员驱动的组织，目前被选举的董事会�
 
 **RChain合作组织有哪些沟通渠道？**
 
-- 合作组织中的成员、领导者和开发者共享一个 [公共服务器](https://discord.gg/fvY8qhx)。若需获取服务器中各项纪录通道的授权， [请通过如下链接成为会员](https://member.rchain.coop/)。公开渠道如下： [https://ourchain.slack.com/](https://ourchain.slack.com/)。
+- 合作组织中的成员、领导者和开发者共享一个 [公共服务器](https://discord.gg/fvY8qhx)。若需获取服务器中各项纪录通道的授权， [请通过如下链接成为会员](https://member.rchain.coop/)。#slack 频道旧有链接[Slack](https://ourchain.slack.com)正逐步淘汰.
 - [Github](https://github.com/rchain/): 被用来进行代码和工程的协调沟通。
 - [Twitter](https://twitter.com/rchain_coop/): 提供新闻和公告的发布和更新。
 - 在Telegram上有[RChain交流群](https://t.me/rchain_coop) 和官方[公告频道](https://t.me/rchain_official).

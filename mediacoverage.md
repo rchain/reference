@@ -11,6 +11,8 @@ YouTube (January 3, 2018 by Deja vu Security)
   Medium (January 1, 2018 by Giotto De Filippi) 
 * [Adventures in the Rho Calculus](https://medium.com/@reinman/adventures-in-the-rho-calculus-672b72ef16c4) _The heart of Goldman Sachs’ billion dollar secret_  
   Medium (December 23, 2017 by reinman) 
+  [Ethereum Researcher Vlad Zamfir joins RChain Co-op Board of Directors](https://medium.com/@Ojimadu/ethereum-researcher-vlad-zamfir-joins-rchain-co-op-board-of-directors-6d70a035d0d8)  
+  Medium (September 25, 2017 by Ojimadu)
 * [What Is RChain?](https://themerkle.com/what-is-rchain/)  
   The Merkle (September 4, 2017 by JP Bontinx) 
 * [Seattle-based RChain takes on Bitcoin and Ethereum with new blockchain technology](https://www.geekwire.com/2017/seattle-based-rchain-takes-bitcoin-ethereum-new-blockchain-tech/)  

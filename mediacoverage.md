@@ -1,13 +1,23 @@
 
 RChain Media Coverage
 
+* [Rchain Project Overview - High Capacity Ethereum Blockchain Killer](https://www.youtube.com/watch?v=OLQ4LVmCIh4&feature=youtu.be)  
+YouTube (January 9, 2018 by CryptoCoinShow)
+* [RChain Review - The future of Blockchain](https://www.youtube.com/watch?v=MCCXzvO0Hhk&feature=youtu.be)  
+YouTube (January 9, 2018 by Viva La Crypto)
+* [Blockchain Security Summit - Solving Blockchain Scalability - RChain's Navneet Suman](https://www.youtube.com/watch?v=pAlaAdF_Y3c&feature=youtu.be)  
+YouTube (January 3, 2018 by Deja vu Security)
 * [RChain: The real scalable blockchain](https://medium.com/@giotto_3438/rchain-the-real-scalable-blockchain-4be5a43b722b)  
   Medium (January 1, 2018 by Giotto De Filippi) 
 * [Adventures in the Rho Calculus](https://medium.com/@reinman/adventures-in-the-rho-calculus-672b72ef16c4) _The heart of Goldman Sachs’ billion dollar secret_  
-  Medium (December 23, 2017 by reinman) 
+  Medium (December 23, 2017 by reinman)  
+* [Ethereum Researcher Vlad Zamfir joins RChain Co-op Board of Directors](https://medium.com/@Ojimadu/ethereum-researcher-vlad-zamfir-joins-rchain-co-op-board-of-directors-6d70a035d0d8)  
+  Medium (September 25, 2017 by Ojimadu)
 * [What Is RChain?](https://themerkle.com/what-is-rchain/)  
   The Merkle (September 4, 2017 by JP Bontinx) 
 * [Seattle-based RChain takes on Bitcoin and Ethereum with new blockchain technology](https://www.geekwire.com/2017/seattle-based-rchain-takes-bitcoin-ethereum-new-blockchain-tech/)  
   Geekwire (September 1, 2017 by Mark Harris)
 * [RChain series: Introduction](https://blog.coinfund.io/rchain-series-introduction-985a05804ab)  
   Coinfund (August 4, 2017 by Aleksandr Bulkin)
+* [An introduction to RChain](https://blog.coinfund.io/an-introduction-to-rchain-d5fe303e9fe1)  
+Medium (June 22, 2017 by Shinghai Thornton)

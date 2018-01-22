@@ -10,4 +10,6 @@ RChain Media Coverage
 * [Seattle-based RChain takes on Bitcoin and Ethereum with new blockchain technology](https://www.geekwire.com/2017/seattle-based-rchain-takes-bitcoin-ethereum-new-blockchain-tech/)  
   Geekwire (September 1, 2017 by Mark Harris)
 * [RChain series: Introduction](https://blog.coinfund.io/rchain-series-introduction-985a05804ab)  
-  Coinfund (August 4, 2017 by Aleksandr Bulkin)
+  Coinfund (August 4, 2017 by Aleksandr Bulkin)  
+* [An introduction to RChain](https://blog.coinfund.io/an-introduction-to-rchain-d5fe303e9fe1)  
+Medium (June 22, 2017 by Shinghai Thornton)

@@ -48,7 +48,7 @@ Here's a collection of useful links at an easy to remember uri.
 
 ## Co-op
 
-* [About Cooperatives](http://www.prout.org/pna/cooperatives.html)
+* [ICA Guidance Notes on the Co-operative Principles](https://ica.coop/en/media/library/the-guidance-notes-on-the-co-operative-principles)
 
 * [Articles of Incorporation, Bylaws, and board minutes](https://github.com/rchain/board)
 

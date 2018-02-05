@@ -11,7 +11,7 @@
 ## General
 
 **What is RChain?**  \
-RChain is a fundamentally new blockchain platform rooted in a formal model of concurrent and decentralized computation. The RChain Cooperative is leveraging that model through correct-by-construction software development to produce a concurrent, compositional, and infinitely scalable blockchain.
+RChain is a fundamentally new blockchain platform rooted in a formal model of concurrent and decentralized computation. The RChain Cooperative is leveraging that model through correct-by-construction software development to produce a concurrent, compositional, and massively scalable blockchain.
 
 **Where is the whitepaper?**  \
 [On Github (PDF)](http://docs.google.com/gview?url=https://github.com/rchain/reference/raw/master/docs/RChainWhitepaper.pdf).
@@ -96,6 +96,9 @@ Interested individuals can become a Member of the Co-op. Benefits include: acces
 
 **I live outside of the United States. Can I join as a Member?**  \
 Yes, unless you reside in a region sanctioned by the US. The registration process will check that.
+
+**I can't upload files into the member.rchain.coop site. What's wrong?**  \
+The file names of your identity documents cannot have spaces or special characters. Please use legacy file names such as 'passport.jpg' and try uploading again.
 
 **Is there a bounty program?**  \
 Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/).

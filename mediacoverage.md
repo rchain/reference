@@ -1,6 +1,10 @@
 
 RChain Media Coverage
 
+* [Cryptocurrency May Have its Ups and Downs, but Blockchain’s Stock is on the Rise](https://www.geekwire.com/2018/cryptocurrency-may-ups-downs-blockchains-stock-rise/)  
+GeekWire (January 22, 2018 by Alan Boyle)
+* [Statebox: A Universal Language of Distributed Systems](https://johncarlosbaez.wordpress.com/2018/01/22/statebox-a-universal-language-of-distributed-systems/)  
+WordPress (January 22, 2018 by Christian Williams)
 * [Rchain Project Overview - High Capacity Ethereum Blockchain Killer](https://www.youtube.com/watch?v=OLQ4LVmCIh4&feature=youtu.be)  
 YouTube (January 9, 2018 by CryptoCoinShow)
 * [RChain Review - The future of Blockchain](https://www.youtube.com/watch?v=MCCXzvO0Hhk&feature=youtu.be)  

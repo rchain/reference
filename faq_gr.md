@@ -18,7 +18,7 @@
 Δείτε επίσης την [Αρχιτεκτονική RChain](http://rchain-architecture.readthedocs.io).
 
 **Πού είναι το πλάνο;** \
-Ένα νέο πλάνο είναι σε εξέλιξη, αποτέλεσμα του Developer Retreat τον Νοέμβριο. Υπάρχει ένα σχεδιάγραμμα στο επάνω μέρος του https://rchain.atlassian.net/wiki/spaces/CORE/overview που δίνει μια προβολή 50.000 ποδιών. Ένα κάπως ξεχασμένο στιγμιότυπο της πλατφόρμας είναι διαθέσιμο στους [ορισμούς ορόσημα](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
+Ένα νέο πλάνο είναι σε εξέλιξη, αποτέλεσμα του Developer Retreat τον Νοέμβριο. Υπάρχει ένα σχεδιάγραμμα στο επάνω μέρος του https://rchain.atlassian.net/wiki/spaces/CORE/overview που δίνει μια μακροπρόθεσμη προβολή. Ένα κάπως ξεχασμένο στιγμιότυπο της πλατφόρμας είναι διαθέσιμο στους [ορισμούς ορόσημα](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing)
 <!-- Χρειάζεται συντονισμός με τον Medha για ενημερωμένους συνδέσμους πληροφοριών -->
 
 **Πώς δημιουργήθηκε το RChain;** \

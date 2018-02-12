@@ -2,7 +2,7 @@
 
 ### Ενότητες
 
-[Γενικά](#general)  \
+[Γενικά](#%CE%93%CE%B5%CE%BD%CE%B9%CE%BA%CE%AC)  \
 [Συνεταιρισμός](#cooperative)  \
 [Tokens](#tokens)  \
 [Μέλη](#members)  \

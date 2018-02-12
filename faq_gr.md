@@ -6,7 +6,7 @@
 [Συνεταιρισμός](#%CE%A3%CF%85%CE%BD%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82)  \
 [Tokens](#tokens)  \
 [Μέλη](#%CE%9C%CE%AD%CE%BB%CE%B7)  \
-[Προγραμματιστές](#developers)
+[Προγραμματιστές](#%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CF%84%CE%AD%CF%82)
 
 ## Γενικά
 

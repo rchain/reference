@@ -14,7 +14,7 @@ Here's a collection of useful links at an easy to remember uri.
 
 * [RChain Developer Wiki](https://rchain.atlassian.net/wiki/spaces/CORE/overview)
 
-* [A Rholang Tutorial: 2018-01-16](https://github.com/rchain/rchain/blob/dev/rholang/doc/rholangtut-mercury.md)
+* [A Rholang Tutorial: 2018-01-16](https://github.com/rchain/rchain/blob/dev/rholang/doc/rholangtut-mercury.md) , and [Chinese version](docs/rholangtut-mercury_cn.md)
 
 * [Rholang Spec (0.1): 2016-08-03](https://docs.google.com/document/d/1gnBCGe6KLjYnahktmPSm_-8V4jX53Zk10J-KFQl7mf8/edit)
 

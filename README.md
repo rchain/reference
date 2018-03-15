@@ -4,7 +4,11 @@ Here's a collection of useful links at an easy to remember uri.
 
 ## Developers
 
-* [RChain wiki](https://rchain.atlassian.net/wiki/spaces/CORE/overview) - All development related items
+* [Developer.RChain.Coop](https://developer.rchain.coop) - Curated technical documentation, software downloads, tutorials, event listings for developers, and pathways to enage with the development and use of the RChain platform.
+
+* [RChain Developer Forum] (https://forum.rchain.coop) - Post and search questions about Rholang and the RChain blockchain technology.
+
+* [Report a bug] (https://rchain.atlassian.net/secure/CreateIssueDetails!init.jspa?pid=10106&issuetype=10103&versions=10011&assignee=medha&summary=issue+created%20via+link) - Report a bug or issue related to RChain software.
 
 ## Documentation
 

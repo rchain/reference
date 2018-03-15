@@ -18,8 +18,7 @@ RChain is a fundamentally new blockchain platform rooted in a formal model of co
 See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 
 **Where is the roadmap?**  \
-A new roadmap is being worked on, resulting from the Developer Retreat in November. There's a graphic at the top of https://rchain.atlassian.net/wiki/spaces/CORE/overview that gives a 50,000-foot view. A somewhat out-of-date snapshot of the platform is available in the [milestone definitions](https://docs.google.com/spreadsheets/d/1_cPts5BdoZVmbikDGUhkgkdQvkeXbP6aKNI31O0BV3E/edit?usp=sharing).
-<!-- Needs coordination with Medha for up-to-date info links -->
+A new roadmap is being worked on, resulting from the Developer Retreat in November. The road map is published on the developer wiki. [RChain Roadmap: The Flight to Mercury](https://rchain.atlassian.net/wiki/spaces/CORE/pages/105709609/The+Flight+to+Mercury).
 
 **How did RChain come to be?**  \
 RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016 and at that time, the goal was to create a blockchain-based social network with inbuilt micropayments functionality i.e. attention economy. Due to the complexity of the project and disagreement between the team members, it was decided that Greg would focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 - January 2017.
@@ -58,6 +57,7 @@ There are three steering committees where Members collaborate to shape and organ
 - RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.
 - To review past Debrief Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
+- The [RChain Developer Forum] (https://forum.rchain.coop) is the place to ask questions and get answers to questions related to RChain software and Rholang.
 
 
 ## Tokens
@@ -101,7 +101,7 @@ Yes, unless you reside in a region sanctioned by the US. The registration proces
 The file names of your identity documents cannot have spaces or special characters. Please use legacy file names such as 'passport.jpg' and try uploading again.
 
 **Is there a bounty program?**  \
-Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/).
+Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/). JIRA is used for [issues for development work] (https://rchain.atlassian.net/wiki/spaces/CORE/pages/105938971/Bounties+for+Development+work).
 
 **Can I earn RHOCs by participating in projects?**  \
 Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md), then look for projects you’d like to participate in.
@@ -113,10 +113,10 @@ Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRI
 “In theoretical computer science, the π-calculus is a process calculus. The π-calculus allows channel names to be communicated along the channels themselves, and in this way it is able to describe concurrent computations whose network configuration may change during the computation.” (Ref.: [https://en.wikipedia.org/wiki/Pi-calculus](https://en.wikipedia.org/wiki/Pi-calculus)). To better understand how it is being applied in the RChain development, check out the paper [Mobile process calculi for programming the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.readthedocs.io/en/latest/).
 
 **What skills do I need to participate?**  \
-At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool.
+At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool. [Issues for development work] (https://rchain.atlassian.net/wiki/spaces/CORE/pages/105938971/Bounties+for+Development+work)are published on the developer wiki.
 
 **How can I learn Rholang?**
-An understanding of Pi Calculus will help. Join the [RChain Discord](https://discord.gg/fvY8qhx) and inquire to find out more. The [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) has videos that explain various aspects of the platform.
+An understanding of Pi Calculus will help. Join the [RChain Discord](https://discord.gg/fvY8qhx) and inquire to find out more. The [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) has videos that explain various aspects of the platform. One of the best ways to learn it to try, find the Rholang SDK, specification documentation, and a tutorial under get started on the [Developer.RChain.Coop] (https://developer.rchain.coop).
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.

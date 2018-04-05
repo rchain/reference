@@ -57,7 +57,7 @@ There are three steering committees where Members collaborate to shape and organ
 - RChain sends out a bi-weekly newsletter. [Subscribe on the website](https://www.rchain.coop/#joinus) at the base of the main page.
 - The [zoom.us](https://zoom.us/) app is used for teleconferencing such as the wednesday Weekly Debrief.
 - To review past Debrief Summaries and Newsletter archives use the [Summary Index](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index).
-- The [RChain Developer Forum] (https://forum.rchain.coop) is the place to ask questions and get answers to questions related to RChain software and Rholang.
+- The [RChain Developer Forum](https://forum.rchain.coop) is the place to ask questions and get answers to questions related to RChain software and Rholang.
 
 
 ## Tokens
@@ -113,13 +113,38 @@ Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRI
 “In theoretical computer science, the π-calculus is a process calculus. The π-calculus allows channel names to be communicated along the channels themselves, and in this way it is able to describe concurrent computations whose network configuration may change during the computation.” (Ref.: [https://en.wikipedia.org/wiki/Pi-calculus](https://en.wikipedia.org/wiki/Pi-calculus)). To better understand how it is being applied in the RChain development, check out the paper [Mobile process calculi for programming the blockchain](http://mobile-process-calculi-for-programming-the-new-blockchain.readthedocs.io/en/latest/).
 
 **What skills do I need to participate?**  \
-At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool. [Issues for development work] (https://rchain.atlassian.net/wiki/spaces/CORE/pages/105938971/Bounties+for+Development+work)are published on the developer wiki.
+At this point the entire development focus is on the core platform. The VM, storage, and networking layers are all written in Scala. There will eventually be code for Casper, the REV wallet, and a few other things in Rholang. If you’re a seasoned developer with Scala skills then please get in touch. Down the road more and varied skills will be needed. Programmers versed in other languages, web developers, designers, Javascript experts, system administrators, beta testers, and quality assurance people will be in demand. If you'd like to participate please [join as a Member](https://member.rchain.coop) and put yourself in the Talent Pool. [Issues for development work](https://rchain.atlassian.net/wiki/spaces/CORE/pages/105938971/Bounties+for+Development+work) are published on the developer wiki.
 
-**How can I learn Rholang?**
-An understanding of Pi Calculus will help. Join the [RChain Discord](https://discord.gg/fvY8qhx) and inquire to find out more. The [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) has videos that explain various aspects of the platform. One of the best ways to learn it to try, find the Rholang SDK, specification documentation, and a tutorial under get started on the [Developer.RChain.Coop] (https://developer.rchain.coop).
+  **What was the reason to go with Scala for this project? Why not Erlang or even Golang?** \
+Scala is a type-safe, mostly-functional language whose semantics are relatively well understood. That means that when we write software in Scala, we have some kind of prayer that we can prove it works the way we intended. We could have chosen another functional language, like Haskell, but we liked Scala because it runs on the JVM. That means that production integration is an easier sell to IT managers and business-people. They almost certainly have the JVM running in their stack, somewhere, and so we're not asking to place something esoteric in their data centers. The early core development team--Greg Meredith, Mike Stay, and others--had a lot of experience with Scala and were happy with it. As a result, we all agreed that Scala would be an excellent tool for realizing the RChain technology vision.
+
+As far as "why didn't you choose X," the answer is that we chose Scala. We didn't "not choose" whatever other language. Erlang, Golang, Rust, and Haskell are all fine languages, but they're not the language RChain will be written in. Projects do not succeed because of the programming language they're written in. Projects succeed or fail because of the people and because of the ideas. We have found that the Scala community contains many very talented people and that hiring Scala developers has allowed us to be more successful in the hiring process than one would statistically expect. Scala also allows us to express our ideas with clarity in a functional setting, while leveraging a variety of existing toolsets to great effect. This is a very powerful combination.
+
+**How can I learn Rholang?**  \
+Rholang is a new functional programming language. It is a friendlier version of a smaller language, the [rho calculus](https://www.sciencedirect.com/science/article/pii/S1571066105051893). An understanding of Pi Calculus and functional programming will help. 
+
+Read the Rholang documentation and find instructional videos on the [documentation section](https://developer.rchain.coop/documentation) RChain developer site. Get started with Rholang by [building from source](https://github.com/rchain/rchain/tree/master/rholang) or running the [RChain node](https://github.com/rchain/rchain/releases). Use this [tutorial](https://github.com/rchain/rchain/blob/master/rholang/doc/rholangtut-0.2.md) for guidance.
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.
+
+**Tell me more about the storage layer.** \
+The RChain storage layer, RSpace, is a fundamental part of the VM; it just happens to be something that's modular enough to break out into its own library. The storage layer is how message delivery between processes is implemented; it uses rholang patterns as keys. Sending on a pattern is putting data in the database; receiving on a pattern is querying the database. If there's no data to consume, a continuation is stored at the key instead. If there's already a continuation, and you're trying to store data, the continuation gets applied to the incoming data.
+
+**Where is the data stored**  \
+We're building an API backed by Lightning Memory-Mapped Database (LMDB).
+
+**Is all data replicated across all nodes in a namespace?**   \
+Yes.
+
+**What is the process for transaction commitment?** \
+Rholang doesn't use a notion of transaction in the same way that ethereum does. Ethereum uses event-loop concurrency, and either the entire turn kicked off by a message succeeds or it doesn't (maybe you ran out of gas, maybe there was some other error). Rholang blocks, on the other hand, contain three kinds of data: individual synchronizations of names, new sends, and new contract deployments. If you want transactions, you have to write code that implements them.
+
+**What's the key difference between ETH Casper and RChain Casper? And why bother doing RChain and not just build on top of Ethereum and Casper?** \
+In short, the main reason not to build on top of Ethereum is in order to have formal verification at all levels. i.e. There will always be some math which can prove to us that any given part of the system is bug-free. The foundation of RChain is Reflective Higher Order Calculus, which enables the creation of ‘correct-by-construction’ contracts. From system contracts to Casper Consensus, RChain contracts will be backed by formal verification- giving users some guarantees on what these contracts do.
+
+**What is a safety oracle?**  \
+A safety oracle looks at all the messages a node has received and says "at this point, no one can convince me that this subset of information is wrong". If the network converges on the value of that information, it must converge on what that node believes.
 
 ### *Suggestions?*
 Have a question that hasn't been answered? You can suggest additional FAQ entries by including the hashtag #faq in any of the comm channels.

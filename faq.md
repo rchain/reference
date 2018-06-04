@@ -123,7 +123,7 @@ As far as "why didn't you choose X," the answer is that we chose Scala. We didn'
 **How can I learn Rholang?**  \
 Rholang is a new functional programming language. It is a friendlier version of a smaller language, the [rho calculus](https://www.sciencedirect.com/science/article/pii/S1571066105051893). An understanding of Pi Calculus and functional programming will help. 
 
-Read the Rholang documentation and find instructional videos on the [documentation section](https://developer.rchain.coop/documentation) RChain developer site. Get started with Rholang by [building from source](https://github.com/rchain/rchain/tree/master/rholang) or running the [RChain node](https://github.com/rchain/rchain/releases). Use this [tutorial](https://github.com/rchain/rchain/blob/master/rholang/doc/rholangtut-0.2.md) for guidance.
+Read the Rholang documentation and find instructional videos on the [documentation section](https://developer.rchain.coop/documentation) RChain developer site. Get started with Rholang by [building from source](https://github.com/rchain/rchain/tree/master/rholang) or running the [RChain node](https://github.com/rchain/rchain/releases). Use this [tutorial](https://developer.rchain.coop/tutorial/) for guidance.
 
 **What will the license be for RChain's components?**  \
 RChain's components are all under open source and free software licenses. Our license of choice is Apache v2. Rholang is the only component currently licensed under the MIT license.

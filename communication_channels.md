@@ -2,7 +2,9 @@
 
 ## RChain Web Publishing
 
-Official Website: https://rchain.coop/
+Website: https://rchain.coop/
+
+Blog: https://blog.rchain.coop/
 
 FAQ: https://github.com/rchain/reference/blob/master/faq.md
 
@@ -37,8 +39,6 @@ Bitcointalk: https://bitcointalk.org/index.php?topic=2494040
 Medium: https://medium.com/rchain-cooperative
 
 Chinese QQ Group ID: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666
-
-Slack: https://ourchain.slack.com/ (being phased out and replaced by Discord)
 
 Co-op members, leadership and developers work together in a public Discord server: https://discord.gg/fvY8qhx
 

@@ -21,16 +21,16 @@ See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 A new roadmap is being worked on, resulting from the Developer Retreat in November. The road map is published on the developer wiki. [RChain Roadmap: The Flight to Mercury](https://rchain.atlassian.net/wiki/spaces/CORE/pages/105709609/The+Flight+to+Mercury).
 
 **How did RChain come to be?**  \
-RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016 and at that time, the goal was to create a blockchain-based social network with inbuilt micropayments functionality i.e. attention economy. Due to the complexity of the project and disagreement between the team members, it was decided that Greg would focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company](https://www.rchain.io)) were formed in December 2016 - January 2017.
+RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016 and at that time, the goal was to create a blockchain-based social network with inbuilt micropayments functionality i.e. attention economy. Due to the complexity of the project and disagreement between the team members, it was decided that Greg would focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and [Holdings company(now Pithia)](https://pithia.com/)) were formed in December 2016 - January 2017. [Relfecitve Ventures](https://www.reflectiveventures.io/)
 
 
 ## Cooperative
 
-**What is the difference between the Cooperative and the Holdings company?**  \
-The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [RChain Holdings](http://rchain.io/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
+**What is the difference between the Cooperative, Reflective Ventures, and Pitha** \
+The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [Reflective Ventures](https://www.reflectiveventures.io/) [Pitha](https://pithia.com/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
 
 **Where is RChain based?**  \
-The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington State USA companies and the founders live in Seattle.
+The RChain Cooperative, Relfective Ventures, and Pithia are both Internet companies and have participants around the world. They are Washington State USA companies and the founders live in Seattle.
 
 **What is the governance model?**  \
 The Co-op is a member-driven organization with an elected nine-person [Board of Directors](https://www.rchain.coop/#team). Board seats have 3, 2, or 1 year terms. The board is composed of:

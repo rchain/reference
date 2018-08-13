@@ -26,11 +26,11 @@ RChain was the culmination of a number of innovations by founder Greg Meredith. 
 
 ## Cooperative
 
-**What is the difference between the Cooperative and the Holdings company?**  \
-The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [RChain Holdings](http://rchain.io/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
+**What is the difference between the Cooperative, Reflective and Pithia**  \
+The [Co-op](https://www.rchain.coop) is the organization that develops the open-source RChain platform software. It’s an open and community-driven initiative with multiple communication channels through which all are welcome to participate. [Reflective Ventures](https://www.reflectiveventures.io/) and [Pithia](https://pithia.com/) is a for-profit entity whose mission is to grow the ecosystem around the RChain platform, through incubating startups, forming joint ventures, developing products, and delivering professional services.
 
 **Where is RChain based?**  \
-The RChain Cooperative and RChain Holdings are both Internet companies and have participants around the world. They are Washington State USA companies and the founders live in Seattle.
+The RChain Cooperative, Reflective Ventures, and Pithia are both Internet companies and have participants around the world. They are Washington State USA companies and the founders live in Seattle.
 
 **What is the governance model?**  \
 The Co-op is a member-driven organization with an elected nine-person [Board of Directors](https://www.rchain.coop/#team). Board seats have 3, 2, or 1 year terms. The board is composed of:

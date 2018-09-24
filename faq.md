@@ -21,9 +21,7 @@ See also the [RChain Architecture](http://rchain-architecture.readthedocs.io).
 A new roadmap is being worked on, resulting from the Developer Retreat in November. The road map is published on the developer wiki. [RChain Roadmap: The Flight to Mercury](https://rchain.atlassian.net/wiki/spaces/CORE/pages/105709609/The+Flight+to+Mercury).
 
 **How did RChain come to be?**  \
-
 RChain was the culmination of a number of innovations by founder Greg Meredith. The core of RChain is based on mobile process calculi, a branch of mathematics with approximately 30 years of history. Together with the experience of other blockchains and other technology, the RChain architecture was documented in July of 2016 and at that time, the goal was to create a blockchain-based social network with inbuilt micropayments functionality i.e. attention economy. Due to the complexity of the project and disagreement between the team members, it was decided that Greg would focus on realizing the vision of RChain. The RChain organizations (the [Co-op](https://www.rchain.coop/) and RChain Holdings company, which is now named [Pithia](https://pithia.com/) formed in December 2016 - January 2017. [Reflective Ventures](https://www.reflectiveventures.io/) formed shortly after. 
-
 
 
 ## Cooperative
@@ -41,7 +39,7 @@ The Co-op is a member-driven organization with an elected nine-person [Board of 
 - 2 years: Kenny Rowe, Evan Jensen, Alexandr Bulkin
 - 1 year: Navneet Suman, Hendrik Jan Hilbolling, David Currin
 
-The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Lisa Rice, Treasurer.
+The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Kate Gonsalves, Treasurer.
 
 There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but some are limited to 11 working members plus a chair.
 

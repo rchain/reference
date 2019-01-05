@@ -63,7 +63,7 @@ Here's a collection of useful links at an easy to remember uri.
 | Media | Description |
 | --- | --- |
 | Casper PoS Youtube | https://www.youtube.com/channel/UCi8byRkpJBbGgDot2pWXLHA/videos |
-| Discord | https://discord.gg/fvY8qhx |
+| Discord | https://discord.gg/NWkQnfH |
 | Github | https://github.com/rchain |
 | LinkedIn | https://www.linkedin.com/company/rchain-cooperative/ |
 | Official Website | https://rchain.coop |

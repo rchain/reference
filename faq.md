@@ -1,5 +1,7 @@
 # RChain Cooperative FAQ
 
+# (Superceded by https://faq.rchain.coop)
+
 ### Sections
 
 [General](#general)  \
@@ -44,10 +46,10 @@ The Co-op officers are: Greg Meredith, President; Evan Jensen, Secretary; Kate G
 There are three steering committees where Members collaborate to shape and organize the Cooperative: the Executive Committee, the Governance Committee, and the Compensation Committee. All committees have open participation but some are limited to 11 working members plus a chair.
 
 **What comm channels does the Co-op use?**
-- Co-op members, leadership, and developers share a [public Discord server](https://discord.gg/fvY8qhx). To have full access to all of the Discord channels please become a Member at [https://member.rchain.coop](https://member.rchain.coop). The #slack channel is bridged with the old [Slack](https://ourchain.slack.com) which is being phased out.
+- Co-op members, leadership, and developers share a [public Discord server](https://discord.gg/NWkQnfH). To have full access to all of the Discord channels please become a Member at [https://member.rchain.coop](https://member.rchain.coop). The #slack channel is bridged with the old [Slack](https://ourchain.slack.com) which is being phased out.
 - [Github](https://github.com/rchain/) is used for code and project coordination.
 - The [RChain Twitter account](https://twitter.com/rchain_coop/) provides news and announcements.
-- On Telegram there is a [RChain chat group](https://t.me/rchain_coop) and official [Announcements channel](https://t.me/rchain_official).
+- On Telegram there is an [RChain Channel](https://t.me/rchaincoop)
 - Chinese users can join the QQ RChain group: 中国朋友欢迎加入RChain粉丝群，QQ群号: 530718666.
 - [RChain on Medium](https://medium.com/rchain-cooperative) carries longer blog posts.
 - An [RChain YouTube channel](https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w) contains updates, live webcasting, and recordings of meetings.
@@ -89,7 +91,7 @@ Not directly; the redemption period ended in April 2017. AMPs and RHOCs are trad
 ## Members
 
 **How can I get involved with RChain?**  \
-Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on code and community development projects, create Co-op infrastructure, and work out its governance. See [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md) for full information.
+Join one of the public discussion forums (see the comm channels above). People who want to play a more active role can collaborate on code and community development projects, create Co-op infrastructure, and work out its governance.
 
 **What is the Membership Program?**  \
 Interested individuals can become a Member of the Co-op. Benefits include: access to all channels of the Discord server where the RChain developers and community collaborate, electing the board members, participating in governance committees, being eligible to propose and collaborate on projects, and deciding about project approval and budget allocation. Additional benefits will be defined over time such as patronage dividends. Membership requires KYC and a one-time $20 membership fee. If you'd like to join please register at: [https://member.rchain.coop](https://member.rchain.coop).
@@ -99,12 +101,6 @@ Yes, unless you reside in a region sanctioned by the US. The registration proces
 
 **I can't upload files into the member.rchain.coop site. What's wrong?**  \
 The file names of your identity documents cannot have spaces or special characters. Please use legacy file names such as 'passport.jpg' and try uploading again.
-
-**Is there a bounty program?**  \
-Yes. Bounties are task based with peer review. Tasks vary, but typically bounties are available for core development, community formation, marketing, business development, and channel operation. Github is used for [issue tracking and project management](https://github.com/rchain/Members/). JIRA is used for [issues for development work] (https://rchain.atlassian.net/wiki/spaces/CORE/pages/105938971/Bounties+for+Development+work).
-
-**Can I earn RHOCs by participating in projects?**  \
-Yes. Read [CONTRIBUTING.md](https://github.com/rchain/Members/blob/master/CONTRIBUTING.md), then look for projects you’d like to participate in.
 
 
 ## Developers

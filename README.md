@@ -39,6 +39,7 @@ Here's a collection of useful links at an easy to remember uri.
 
 ## Talks
 
+* [RCast Podcast](https://blog.rchain.coop/?s=rcast)
 * [RChain Developer Retreat (Playlist): 2017-11-07](https://www.youtube.com/watch?v=Fs38s7nI3Uk&list=PLf2bbiic5ZjCPzin3gCSMGiBtbT8UO5o2)
 * [Introduction to Rholang at Devcon3: 2017-11-26](https://www.youtube.com/watch?v=7tW1fAWg6s8)
 * [Epicenter with Peter Harris of Resonate | 2017-01-24](https://www.youtube.com/watch?v=kXC0KFrTxpg)
@@ -63,7 +64,6 @@ Here's a collection of useful links at an easy to remember uri.
 | LinkedIn | https://www.linkedin.com/company/rchain-cooperative/ |
 | Official Website | https://rchain.coop |
 | RChain Developer | https://rchain.atlassian.net/wiki/spaces/CORE/overview |
-| RChain Holdings | https://rchain.io | 
 | RChain Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |
 | Reddit | https://www.reddit.com/r/RChain/ |
 | Telegram Announcements Channel | https://t.me/rchaincoop |

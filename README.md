@@ -6,7 +6,7 @@ Here's a collection of useful links at an easy to remember uri.
 
 * [Developer.RChain.Coop](https://developer.rchain.coop) - Curated technical documentation, software downloads, tutorials, event listings for developers, and pathways to enage with the development and use of the RChain platform.
 
-* [RChain Developer Forum] (https://forum.rchain.coop) - Post and search questions about Rholang and the RChain blockchain technology.
+* [RChain FAQ] (https://faq.rchain.coop) - Search questions about Rholang and the RChain blockchain technology.
 
 * [Report a bug] (https://rchain.atlassian.net/secure/CreateIssueDetails!init.jspa?pid=10106&issuetype=10103&versions=10011&assignee=medha&summary=issue+created%20via+link) - Report a bug or issue related to RChain software.
 
@@ -26,14 +26,9 @@ Here's a collection of useful links at an easy to remember uri.
 
 * [Church Numerals in Rho: 2017-08-01](https://docs.google.com/document/d/1rbvKyd7dNxWiWn-nKbMYMPPtxEbOahah8w1H_x3JV0s/)
 
-* [FAQ](https://github.com/rchain/reference/blob/master/faq.md)
-
-* [Weekly Debrief Summaries](https://github.com/rchain/Members/wiki/Weekly-Debrief-Index)
-
-* [Newsletter Archive](http://archive.sendpulse.com/shc4c/Ada65e732/)
-
 ## Articles & Guest Articles
 
+* [RChain Blog](https://blog.rchain.coop)
 * [RChain Series: Introduction by Coinfund: 2017-06-22](https://blog.coinfund.io/an-introduction-to-rchain-d5fe303e9fe1)
 * [Correct-by-construction Casper | A Visualization for the Future of Blockchain Consensus: 2017-12-27](https://medium.com/rchain-cooperative/a-visualization-for-the-future-of-blockchain-consensus-b6710b2f50d6)
 * [Adventures in Rho Calculus: 2017-12-23](https://medium.com/@reinman/adventures-in-the-rho-calculus-672b72ef16c4)
@@ -71,6 +66,5 @@ Here's a collection of useful links at an easy to remember uri.
 | RChain Holdings | https://rchain.io | 
 | RChain Youtube | https://www.youtube.com/channel/UCSS3jCffMiz574_q64Ukj_w |
 | Reddit | https://www.reddit.com/r/RChain/ |
-| Telegram Group| https://t.me/rchain_coop |
-| Telegram Announcements Channel | https://t.me/rchain_official |
+| Telegram Announcements Channel | https://t.me/rchaincoop |
 | Twitter | https://twitter.com/rchain_coop |

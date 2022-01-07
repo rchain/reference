@@ -1,0 +1,96 @@
+                                                   RChain Cooperative
+                                                            Balance Sheet
+                                                          As of June 30, 2021
+
+
+                                                                                               JAN - MAR, 2021      APR - JUN, 2021
+ASSETS
+ Current Assets
+ Bank Accounts
+  1010 BECU Checking                                                                                  -104,843.93         4,650.25
+  1011 BECU Savings                                                                                   183,110.90         51,350.54
+  1090 Settlement Account for Crypto Transactions                                                     -750,000.00      -780,080.00
+  Coinbase Bank Clearing                                                                                17,159.29        20,680.26
+  USD Bittrex                                                                                            2,554.27         2,554.27
+  USDC Coinbase                                                                                                               -2.32
+  USDT Bittrex                                                                                          42,500.00        16,280.00
+  USDT Gnosis                                                                                         921,100.00        627,863.39
+ Total Bank Accounts                                                                                 $311,580.53       $ -56,703.61
+ Other Current Assets
+  1400 Crypto Currencies
+   1410 RHOC                                                                                         1,321,834.38     1,321,834.38
+   1420 BTC                                                                                             80,402.89        -22,634.33
+   1430 ETH                                                                                              7,861.42         7,861.42
+  Total 1400 Crypto Currencies                                                                       1,410,098.69     1,307,061.47
+  1510 Other Current Assets                                                                              3,446.60         3,446.60
+   1512 Other Current Assets                                                                            61,331.84        61,331.84
+   1513 Employee Loans                                                                                  43,363.11        12,000.00
+  Total 1510 Other Current Assets                                                                     108,141.55         76,778.44
+  BioSim Loan                                                                                         473,243.62        473,243.62
+ Total Other Current Assets                                                                         $1,991,483.86    $1,857,083.53
+ Total Current Assets                                                                               $2,303,064.39    $1,800,379.92
+ Fixed Assets
+ 1610 Furniture & Fixtures                                                                               8,428.41         8,428.41
+  1611 Fixed Asset Computers                                                                            19,795.51        19,795.51
+  1612 Machinery & Equipment                                                                            16,003.03        16,003.03
+ Total 1610 Furniture & Fixtures                                                                        44,226.95        44,226.95
+ Total Fixed Assets                                                                                   $44,226.95        $44,226.95
+ Other Assets
+ 1900 Blockchain Platform in Process                                                                 5,169,159.59     5,169,159.59
+ 1910 Notes Receivable                                                                               5,255,667.66     5,255,667.66
+ 1915 LP Investment Reflective Ventures                                                             37,200,000.00    37,200,000.00
+ Due from DAASL                                                                                                           1,500.00
+ Due from RSong                                                                                           100.00          5,100.00
+ Staking                                                                                              271,221.52        271,221.52
+ Total Other Assets                                                                                $47,896,148.77   $47,902,648.77
+TOTAL ASSETS                                                                                       $50,243,440.11   $49,747,255.64
+
+
+
+
+                                       Accrual Basis Friday, October 22, 2021 05:06 PM GMT-07:00                               1/2
+                                                RChain Cooperative
+                                                         Balance Sheet
+                                                       As of June 30, 2021
+
+
+                                                                                         JAN - MAR, 2021       APR - JUN, 2021
+LIABILITIES AND EQUITY
+ Liabilities
+ Current Liabilities
+  Accounts Payable
+   2110 Accounts Payable (A/P)                                                                  1,347,933.67       676,510.22
+  Total Accounts Payable                                                                   $1,347,933.67          $676,510.22
+  Other Current Liabilities
+   2210 Deferred Revenue                                                                   48,466,134.30        48,466,134.30
+   Board Compansation Accrual                                                                          0.00              0.00
+   Meredith Loan                                                                                 106,773.29        108,818.95
+   Payroll Accrual                                                                               421,262.62        421,262.62
+   Payroll Liabilities                                                                              8,178.75         8,178.75
+    2410 Accrued Payroll                                                                             863.20          1,541.65
+    Deferred Wages Accrual                                                                       478,927.19        478,927.19
+    MD Income Tax                                                                                    512.25            656.41
+    MD Unemployment Tax                                                                             1,662.00         1,024.50
+    NYS Employment Taxes                                                                             755.92            231.01
+    NYS Income Tax                                                                                   623.58           -711.67
+    WA Paid Family and Medical Leave Tax                                                             130.70            301.00
+   Total Payroll Liabilities                                                                     491,653.59        490,148.84
+  Total Other Current Liabilities                                                         $49,485,823.80       $49,486,364.71
+ Total Current Liabilities                                                                $50,833,757.47       $50,162,874.93
+ Long-Term Liabilities
+  2915 Long Term Deferred Revenue                                                               5,250,000.00     5,250,000.00
+  PPP Loan                                                                                       156,366.00        156,366.00
+ Total Long-Term Liabilities                                                               $5,406,366.00        $5,406,366.00
+ Total Liabilities                                                                        $56,240,123.47       $55,569,240.93
+ Equity
+ 3100 Members' Equity                                                                            129,584.68        130,304.84
+ 3900 Retained Earnings                                                                     -6,493,066.99        -6,493,066.99
+ Net Income                                                                                      366,798.95        540,776.86
+ Total Equity                                                                             $ -5,996,683.36      $ -5,821,985.29
+TOTAL LIABILITIES AND EQUITY                                                              $50,243,440.11       $49,747,255.64
+
+
+
+
+                                    Accrual Basis Friday, October 22, 2021 05:06 PM GMT-07:00                             2/2
+

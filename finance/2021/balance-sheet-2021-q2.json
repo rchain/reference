@@ -2,9 +2,9 @@
   "heading": {
     "org": "RChain Cooperative",
     "report": "Balance Sheet",
-    "reportDate": "2021-06-30T05:00:00.000Z"
+    "reportDate": "2021-06-30"
   },
-  "detail": [
+  "details": [
     {
       "acctType": "ASSETS",
       "name": "1010 BECU Checking",
@@ -19,7 +19,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -35,7 +38,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -51,7 +57,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -67,7 +76,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -83,7 +95,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -99,7 +114,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -115,7 +133,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -131,7 +152,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -147,7 +171,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -163,7 +190,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -179,7 +209,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -195,7 +228,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -211,7 +247,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -227,7 +266,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Bank Accounts"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -243,12 +285,15 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Bank Accounts",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1410 RHOC",
-      "amt": 1321,
+      "amt": 1321834.38,
       "period": {
         "start": [
           2021,
@@ -259,12 +304,16 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets",
+        "1400 Crypto Currencies"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1410 RHOC",
-      "amt": 1321,
+      "amt": 1321834.38,
       "period": {
         "start": [
           2021,
@@ -275,7 +324,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "1400 Crypto Currencies",
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -291,7 +344,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets",
+        "1400 Crypto Currencies"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -307,7 +364,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "1400 Crypto Currencies",
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -323,7 +384,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets",
+        "1400 Crypto Currencies"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -339,7 +404,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "1400 Crypto Currencies",
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -355,7 +424,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -371,7 +443,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -387,7 +462,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -403,7 +481,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -419,7 +500,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -435,7 +519,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -451,7 +538,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Current Assets",
+        "Other Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -467,7 +557,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Assets",
+        "Current Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -483,7 +576,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -499,7 +594,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -515,7 +612,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -531,7 +630,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -547,7 +648,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -563,12 +666,14 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Fixed Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1900 Blockchain Platform in Process",
-      "amt": 5169,
+      "amt": 5169159.59,
       "period": {
         "start": [
           2021,
@@ -579,12 +684,14 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1900 Blockchain Platform in Process",
-      "amt": 5169,
+      "amt": 5169159.59,
       "period": {
         "start": [
           2021,
@@ -595,12 +702,14 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1910 Notes Receivable",
-      "amt": 5255,
+      "amt": 5255667.66,
       "period": {
         "start": [
           2021,
@@ -611,12 +720,14 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1910 Notes Receivable",
-      "amt": 5255,
+      "amt": 5255667.66,
       "period": {
         "start": [
           2021,
@@ -627,12 +738,14 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1915 LP Investment Reflective Ventures",
-      "amt": 37200,
+      "amt": 37200000,
       "period": {
         "start": [
           2021,
@@ -643,12 +756,14 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
       "name": "1915 LP Investment Reflective Ventures",
-      "amt": 37200,
+      "amt": 37200000,
       "period": {
         "start": [
           2021,
@@ -659,7 +774,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -675,7 +792,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -691,7 +810,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -707,7 +828,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -723,7 +846,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "ASSETS",
@@ -739,12 +864,14 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Assets"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "2110 Accounts Payable (A/P)",
-      "amt": 1347,
+      "amt": 1347933.67,
       "period": {
         "start": [
           2021,
@@ -755,7 +882,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Accounts Payable"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -771,12 +902,16 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Accounts Payable",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "2210 Deferred Revenue",
-      "amt": 48466,
+      "amt": 48466134.3,
       "period": {
         "start": [
           2021,
@@ -787,12 +922,16 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "2210 Deferred Revenue",
-      "amt": 48466,
+      "amt": 48466134.3,
       "period": {
         "start": [
           2021,
@@ -803,7 +942,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -819,7 +962,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -835,7 +982,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -851,7 +1002,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -867,7 +1022,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -883,7 +1042,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -899,7 +1062,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -915,7 +1082,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -931,7 +1102,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -947,7 +1122,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -963,7 +1142,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -979,7 +1162,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -995,7 +1182,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1011,7 +1202,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1027,7 +1222,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1043,7 +1242,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1059,7 +1262,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1075,7 +1282,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1091,7 +1302,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1107,7 +1322,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1123,7 +1342,11 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1139,7 +1362,11 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Current Liabilities",
+        "Other Current Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1155,12 +1382,16 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Other Current Liabilities",
+        "Current Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "2915 Long Term Deferred Revenue",
-      "amt": 5250,
+      "amt": 5250000,
       "period": {
         "start": [
           2021,
@@ -1171,12 +1402,15 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Long-Term Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "2915 Long Term Deferred Revenue",
-      "amt": 5250,
+      "amt": 5250000,
       "period": {
         "start": [
           2021,
@@ -1187,7 +1421,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Long-Term Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1203,7 +1440,10 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Liabilities",
+        "Long-Term Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1219,7 +1459,10 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Long-Term Liabilities",
+        "Liabilities"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1235,7 +1478,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1251,12 +1496,14 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "3900 Retained Earnings",
-      "amt": -6493,
+      "amt": -6493066.99,
       "period": {
         "start": [
           2021,
@@ -1267,12 +1514,14 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
       "name": "3900 Retained Earnings",
-      "amt": -6493,
+      "amt": -6493066.99,
       "period": {
         "start": [
           2021,
@@ -1283,7 +1532,9 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1299,7 +1550,9 @@
           3
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     },
     {
       "acctType": "LIABILITIES AND EQUITY",
@@ -1315,7 +1568,1161 @@
           6
         ]
       },
-      "acctPath": []
+      "acctPath": [
+        "Equity"
+      ]
     }
-  ]
+  ],
+  "tables": {
+    "accounts": [
+      {
+        "guid": "ec45605e591b337473df42346d4dd14d",
+        "name": "Bank Accounts",
+        "account_type": "ASSET",
+        "parent_guid": "142fbdff300c3082c5009df6bf423cfa"
+      },
+      {
+        "guid": "142fbdff300c3082c5009df6bf423cfa",
+        "name": "Current Assets",
+        "account_type": "ASSET",
+        "parent_guid": null
+      },
+      {
+        "guid": "4ffbedfaa6294feaa7a2438d4d9f8763",
+        "name": "1400 Crypto Currencies",
+        "account_type": "ASSET",
+        "code": "1400",
+        "parent_guid": "15f3183d732d9fb6f554dca285a63329"
+      },
+      {
+        "guid": "15f3183d732d9fb6f554dca285a63329",
+        "name": "Other Current Assets",
+        "account_type": "ASSET",
+        "parent_guid": "142fbdff300c3082c5009df6bf423cfa"
+      },
+      {
+        "guid": "6812d0e27e9549c83401861decb5d32e",
+        "name": "Fixed Assets",
+        "account_type": "ASSET",
+        "parent_guid": null
+      },
+      {
+        "guid": "8fafbba41e0ebb22264a370db3905bc9",
+        "name": "Other Assets",
+        "account_type": "ASSET",
+        "parent_guid": null
+      },
+      {
+        "guid": "8930ce3bd20ecba1811bf5de905ad04a",
+        "name": "1010 BECU Checking",
+        "account_type": "ASSET",
+        "code": "1010",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "92f6575d43ede613aa17f0a0c75c281c",
+        "name": "1011 BECU Savings",
+        "account_type": "ASSET",
+        "code": "1011",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "67cab5eb1e756d050873c350e202801f",
+        "name": "1090 Settlement Account for Crypto Transactions",
+        "account_type": "ASSET",
+        "code": "1090",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "a0ae6ba71714f71d4286568c04beb5ed",
+        "name": "Coinbase Bank Clearing",
+        "account_type": "ASSET",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "a2312b77191fb7db407b0db330028361",
+        "name": "USD Bittrex",
+        "account_type": "ASSET",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "16c912addd341846f5191e4b9030cf14",
+        "name": "USDC Coinbase",
+        "account_type": "ASSET",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "96ef435882a4dd1579f881b23c5ca43b",
+        "name": "USDT Bittrex",
+        "account_type": "ASSET",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "dbf82748a2b50d1a6e9ef0d7da5be7d9",
+        "name": "USDT Gnosis",
+        "account_type": "ASSET",
+        "parent_guid": "ec45605e591b337473df42346d4dd14d"
+      },
+      {
+        "guid": "6f617ef51fb3300d5df84e43ee6c58c4",
+        "name": "1410 RHOC",
+        "account_type": "ASSET",
+        "code": "1410",
+        "parent_guid": "4ffbedfaa6294feaa7a2438d4d9f8763"
+      },
+      {
+        "guid": "1cae58ae6e3e3dc920c65e9c9edfa9ae",
+        "name": "1420 BTC",
+        "account_type": "ASSET",
+        "code": "1420",
+        "parent_guid": "4ffbedfaa6294feaa7a2438d4d9f8763"
+      },
+      {
+        "guid": "e4058e0598acedfb8b064113f3703aa0",
+        "name": "1430 ETH",
+        "account_type": "ASSET",
+        "code": "1430",
+        "parent_guid": "4ffbedfaa6294feaa7a2438d4d9f8763"
+      },
+      {
+        "guid": "54079937b1379021fe4ef9ef773fdb4b",
+        "name": "1510 Other Current Assets",
+        "account_type": "ASSET",
+        "code": "1510",
+        "parent_guid": "15f3183d732d9fb6f554dca285a63329"
+      },
+      {
+        "guid": "0c6396493adf03bb9c0249a0fdaff21b",
+        "name": "1512 Other Current Assets",
+        "account_type": "ASSET",
+        "code": "1512",
+        "parent_guid": "15f3183d732d9fb6f554dca285a63329"
+      },
+      {
+        "guid": "e9fc9d04eca20b12907a1f1569f72c63",
+        "name": "1513 Employee Loans",
+        "account_type": "ASSET",
+        "code": "1513",
+        "parent_guid": "15f3183d732d9fb6f554dca285a63329"
+      },
+      {
+        "guid": "ace8a3c306e8644c2f37813270c7d60c",
+        "name": "BioSim Loan",
+        "account_type": "ASSET",
+        "parent_guid": "15f3183d732d9fb6f554dca285a63329"
+      },
+      {
+        "guid": "63ca9110b0fee6e02a65fe3bd089a72b",
+        "name": "1610 Furniture & Fixtures",
+        "account_type": "ASSET",
+        "code": "1610",
+        "parent_guid": "6812d0e27e9549c83401861decb5d32e"
+      },
+      {
+        "guid": "e53623d53e1fc791c269b330fb71305a",
+        "name": "1611 Fixed Asset Computers",
+        "account_type": "ASSET",
+        "code": "1611",
+        "parent_guid": "6812d0e27e9549c83401861decb5d32e"
+      },
+      {
+        "guid": "1184ad3c4e96158b7fa097cc1275a789",
+        "name": "1612 Machinery & Equipment",
+        "account_type": "ASSET",
+        "code": "1612",
+        "parent_guid": "6812d0e27e9549c83401861decb5d32e"
+      },
+      {
+        "guid": "3a379608fed79ede539b9388d9e46006",
+        "name": "1900 Blockchain Platform in Process",
+        "account_type": "ASSET",
+        "code": "1900",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "41a0993db740b8ae85d2e716a22ae8eb",
+        "name": "1910 Notes Receivable",
+        "account_type": "ASSET",
+        "code": "1910",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "5abdeeea9c8a3828e622917e8a614849",
+        "name": "1915 LP Investment Reflective Ventures",
+        "account_type": "ASSET",
+        "code": "1915",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "b8a4bc9a74553f50c8a37aabd85c3150",
+        "name": "Due from DAASL",
+        "account_type": "ASSET",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "a75285c4f1b3855776364045e035a9b9",
+        "name": "Due from RSong",
+        "account_type": "ASSET",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "2b0d5d0bf015e627e18487906dbce02b",
+        "name": "Staking",
+        "account_type": "ASSET",
+        "parent_guid": "8fafbba41e0ebb22264a370db3905bc9"
+      },
+      {
+        "guid": "33247f68a25f73fa8fede5717ab35cda",
+        "name": "Accounts Payable",
+        "account_type": "LIABILITY",
+        "parent_guid": "75b0f732acf80ae678456a5d58ef9ba0"
+      },
+      {
+        "guid": "75b0f732acf80ae678456a5d58ef9ba0",
+        "name": "Current Liabilities",
+        "account_type": "LIABILITY",
+        "parent_guid": "77ed0557a9f07383e75aa86415ee25ce"
+      },
+      {
+        "guid": "77ed0557a9f07383e75aa86415ee25ce",
+        "name": "Liabilities",
+        "account_type": "LIABILITY",
+        "parent_guid": null
+      },
+      {
+        "guid": "bd5784333086a4bc20d110f400152d64",
+        "name": "Other Current Liabilities",
+        "account_type": "LIABILITY",
+        "parent_guid": "75b0f732acf80ae678456a5d58ef9ba0"
+      },
+      {
+        "guid": "62113f8b06232ba5f3cc15f1ef14dfc9",
+        "name": "Long-Term Liabilities",
+        "account_type": "LIABILITY",
+        "parent_guid": "77ed0557a9f07383e75aa86415ee25ce"
+      },
+      {
+        "guid": "8b0d9603195cc4a0fcdbf4806be5b0fd",
+        "name": "Equity",
+        "account_type": "LIABILITY",
+        "parent_guid": null
+      },
+      {
+        "guid": "a02ee6c4bded268682d7ed445f0a8728",
+        "name": "2110 Accounts Payable (A/P)",
+        "account_type": "LIABILITY",
+        "code": "2110",
+        "parent_guid": "33247f68a25f73fa8fede5717ab35cda"
+      },
+      {
+        "guid": "96d36ee8f874ee89949a8fdd99b5c379",
+        "name": "2210 Deferred Revenue",
+        "account_type": "LIABILITY",
+        "code": "2210",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "27e3f7e052d034940e4f0984da5ff0fe",
+        "name": "Board Compansation Accrual",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "936bcd2858bf2fb70f5696f61fe4c5fa",
+        "name": "Meredith Loan",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "56b42a18bad4d27898269da271a7fc12",
+        "name": "Payroll Accrual",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "cf92c27b2fba12dd5058d7703712b090",
+        "name": "Payroll Liabilities",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "58991305d309125d86c0d7345e26b502",
+        "name": "2410 Accrued Payroll",
+        "account_type": "LIABILITY",
+        "code": "2410",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "a04480017ffe9bafb51f2b1d5d2b65d1",
+        "name": "Deferred Wages Accrual",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "75b1631a53ec247950ddead060c578d5",
+        "name": "MD Income Tax",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "80c3de119077637f87bee5ab73e8af8e",
+        "name": "MD Unemployment Tax",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "e82c682c9142c930636b7121500edfe6",
+        "name": "NYS Employment Taxes",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "c5bc0b1ad4ec2494a8e4cfac22fa92c9",
+        "name": "NYS Income Tax",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "e064789526571f54a8a416d82babada6",
+        "name": "WA Paid Family and Medical Leave Tax",
+        "account_type": "LIABILITY",
+        "parent_guid": "bd5784333086a4bc20d110f400152d64"
+      },
+      {
+        "guid": "ce7dcc1aa092b22cef8234e109f0e478",
+        "name": "2915 Long Term Deferred Revenue",
+        "account_type": "LIABILITY",
+        "code": "2915",
+        "parent_guid": "62113f8b06232ba5f3cc15f1ef14dfc9"
+      },
+      {
+        "guid": "26c9c9c70383c2cb6950ff4ae6bc73d7",
+        "name": "PPP Loan",
+        "account_type": "LIABILITY",
+        "parent_guid": "62113f8b06232ba5f3cc15f1ef14dfc9"
+      },
+      {
+        "guid": "44a98b01b63cd039b3ab6e1678e80319",
+        "name": "3100 Members' Equity",
+        "account_type": "LIABILITY",
+        "code": "3100",
+        "parent_guid": "8b0d9603195cc4a0fcdbf4806be5b0fd"
+      },
+      {
+        "guid": "d789c04b55aa6d7c85c4e5a74fcc7e37",
+        "name": "3900 Retained Earnings",
+        "account_type": "LIABILITY",
+        "code": "3900",
+        "parent_guid": "8b0d9603195cc4a0fcdbf4806be5b0fd"
+      },
+      {
+        "guid": "19c7e8a3d913389cbbe99eb479b8b948",
+        "name": "Net Income",
+        "account_type": "LIABILITY",
+        "parent_guid": "8b0d9603195cc4a0fcdbf4806be5b0fd"
+      }
+    ],
+    "transactions": [
+      {
+        "guid": "3d1358b9d681693d74ff9d0beb7adc10",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "fb969ca2239019c760f39f985cc5a2b1",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "f7990bf9d00c604c09cccd941c5c0be5",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "e89f73ba0bac4b56bb7764648ec2a60e",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "f0546581c01b15206fa1a4e9d3e80278",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "bb382a0fd26cc2a85a125290d76a5853",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "4f2bc9c694280dab0b3536eeebf4c0c1",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "857e8f420c115ccab5627f158d352c80",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "6f4587db6ebbd8169e775ed483654abd",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "cddbbdf7d1426e7bd5d5403294b4cc9e",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "3e9e40fc0e1d678ab68499e29242d609",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "22c93de523b438d8cb2e9d5f3611bec3",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "a39639e3747f12d9815fa751f9034570",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "5f7a12c0f07782dc32c9c929a1b44363",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "a85baf80e7b59f424dabe7b34b2c208b",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "83ec4cdce7b9c4319e45821d17b923be",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "67af9babac0b8c8d447accdfde3e399d",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "fdfa984ec2c088d354e2e437c2a7df46",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "77760da097b96b3f24b713f28dc558c2",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "b1f4005959338a29d286151879c25d03",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "6a3d055df9fad48aeb5811139e847be9",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "988c8d841ce4931f56866851ca7bc320",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "49f1cc480b634805fb8f57638eb3f066",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "47dbd43725969b37c71b625eb57ac2f3",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "2015c50531abf388e5bad2a11d98dec1",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "ddf9afa5e275dc63a8b2d485c1077e68",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "9db12803e07134fd598c4a1c3a936c67",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "f23a9e97641c4fef8ff2dcda2af4004f",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "4540d8fc4cda4a3fee4fec67f077c4c0",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "45b4fea8e387b8d3f1942869c35f7604",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "1d28dd545254fe057c89b4c87a4942fe",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "9d88c3cc0d56da7bb6b49a78220f7904",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "bfa399d6d55d3e8ff762b421f7f3e159",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "52d6b7dc9059d267c207d9edc2bca82d",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "9a7669da015a6e89a429591535572b21",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "e041573e34c0f3dd6ec0267a16d9aade",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "210b340ec3e1d95226e2c7d5ac2f7f3d",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "be34c1f2bd3b60aa84f2bbd1d1cdfcd5",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "65d9d43f0afa52fadfa1eccbf2310397",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "dd8aed564a5dc751394146fd9644898b",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "730310c9f08567b94ff9b108a592714b",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      },
+      {
+        "guid": "f5d03e3efc016ec12ad0c2e68964e37f",
+        "post_date": "2021-06-15",
+        "description": "Balance Sheet 2021-06"
+      }
+    ],
+    "splits": [
+      {
+        "guid": "e1e196d3c5d359894a03c578314763f4",
+        "tx_guid": "3d1358b9d681693d74ff9d0beb7adc10",
+        "account_guid": "8930ce3bd20ecba1811bf5de905ad04a",
+        "value_num": 465025,
+        "value_denom": 100
+      },
+      {
+        "guid": "f69fde2e37be071913dcd79390708277",
+        "tx_guid": "3d1358b9d681693d74ff9d0beb7adc10",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -465025,
+        "value_denom": 100
+      },
+      {
+        "guid": "5b14d4b80f170136a3fb45e456fcd81a",
+        "tx_guid": "fb969ca2239019c760f39f985cc5a2b1",
+        "account_guid": "92f6575d43ede613aa17f0a0c75c281c",
+        "value_num": 5135054,
+        "value_denom": 100
+      },
+      {
+        "guid": "b0f33851df249023ec32faf7b91296b3",
+        "tx_guid": "fb969ca2239019c760f39f985cc5a2b1",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -5135054,
+        "value_denom": 100
+      },
+      {
+        "guid": "6d83f0f4779e7f8b8589b360d8388f4a",
+        "tx_guid": "f7990bf9d00c604c09cccd941c5c0be5",
+        "account_guid": "67cab5eb1e756d050873c350e202801f",
+        "value_num": -78008000,
+        "value_denom": 100
+      },
+      {
+        "guid": "d931402e95c674c8ecd0dc77b1235afd",
+        "tx_guid": "f7990bf9d00c604c09cccd941c5c0be5",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 78008000,
+        "value_denom": 100
+      },
+      {
+        "guid": "476bf8fab62898898bf5a8ab30a81eb5",
+        "tx_guid": "e89f73ba0bac4b56bb7764648ec2a60e",
+        "account_guid": "a0ae6ba71714f71d4286568c04beb5ed",
+        "value_num": 2068025.9999999998,
+        "value_denom": 100
+      },
+      {
+        "guid": "7bfea1651b20250081f1897720419a44",
+        "tx_guid": "e89f73ba0bac4b56bb7764648ec2a60e",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -2068025.9999999998,
+        "value_denom": 100
+      },
+      {
+        "guid": "c4c5869ba4225102c3b892da1e1a5ae8",
+        "tx_guid": "f0546581c01b15206fa1a4e9d3e80278",
+        "account_guid": "a2312b77191fb7db407b0db330028361",
+        "value_num": 255427,
+        "value_denom": 100
+      },
+      {
+        "guid": "d2e8ea35a8cdc08135c7cfd365c3b7fb",
+        "tx_guid": "f0546581c01b15206fa1a4e9d3e80278",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -255427,
+        "value_denom": 100
+      },
+      {
+        "guid": "ffae26be284bd44cc8424ba2c5ff46ad",
+        "tx_guid": "bb382a0fd26cc2a85a125290d76a5853",
+        "account_guid": "16c912addd341846f5191e4b9030cf14",
+        "value_num": -231.99999999999997,
+        "value_denom": 100
+      },
+      {
+        "guid": "7a6bb2280c8edd16bde03d84391c2695",
+        "tx_guid": "bb382a0fd26cc2a85a125290d76a5853",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 231.99999999999997,
+        "value_denom": 100
+      },
+      {
+        "guid": "5a444a43a15e56fc692a3aa4ac065b25",
+        "tx_guid": "4f2bc9c694280dab0b3536eeebf4c0c1",
+        "account_guid": "96ef435882a4dd1579f881b23c5ca43b",
+        "value_num": 1628000,
+        "value_denom": 100
+      },
+      {
+        "guid": "b5d88bd63d16abc4de1fbfd14f7ffd2f",
+        "tx_guid": "4f2bc9c694280dab0b3536eeebf4c0c1",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -1628000,
+        "value_denom": 100
+      },
+      {
+        "guid": "1e9718ecef19df87313224632a27d0fc",
+        "tx_guid": "857e8f420c115ccab5627f158d352c80",
+        "account_guid": "dbf82748a2b50d1a6e9ef0d7da5be7d9",
+        "value_num": 62786339,
+        "value_denom": 100
+      },
+      {
+        "guid": "2608a16a4f0afccf88596716bad70366",
+        "tx_guid": "857e8f420c115ccab5627f158d352c80",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -62786339,
+        "value_denom": 100
+      },
+      {
+        "guid": "73fa7df7efa484a6f5e003364bff55ee",
+        "tx_guid": "6f4587db6ebbd8169e775ed483654abd",
+        "account_guid": "6f617ef51fb3300d5df84e43ee6c58c4",
+        "value_num": 132183437.99999999,
+        "value_denom": 100
+      },
+      {
+        "guid": "3fe1d827366b7b9507b7a5a62301be13",
+        "tx_guid": "6f4587db6ebbd8169e775ed483654abd",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -132183437.99999999,
+        "value_denom": 100
+      },
+      {
+        "guid": "75ec16e44a214729c516201eb54c5b6f",
+        "tx_guid": "cddbbdf7d1426e7bd5d5403294b4cc9e",
+        "account_guid": "1cae58ae6e3e3dc920c65e9c9edfa9ae",
+        "value_num": -2263433,
+        "value_denom": 100
+      },
+      {
+        "guid": "23dfbf122995c5c78065d379052192b6",
+        "tx_guid": "cddbbdf7d1426e7bd5d5403294b4cc9e",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 2263433,
+        "value_denom": 100
+      },
+      {
+        "guid": "d6863ecd8227fd94c79b4f1c71a43442",
+        "tx_guid": "3e9e40fc0e1d678ab68499e29242d609",
+        "account_guid": "e4058e0598acedfb8b064113f3703aa0",
+        "value_num": 786142,
+        "value_denom": 100
+      },
+      {
+        "guid": "7860d4809175861b33ee297ac959dfb6",
+        "tx_guid": "3e9e40fc0e1d678ab68499e29242d609",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -786142,
+        "value_denom": 100
+      },
+      {
+        "guid": "6b5d29d9ee64f3402f5d026f8645feba",
+        "tx_guid": "22c93de523b438d8cb2e9d5f3611bec3",
+        "account_guid": "54079937b1379021fe4ef9ef773fdb4b",
+        "value_num": 344660,
+        "value_denom": 100
+      },
+      {
+        "guid": "2ac56e12ae39d71ed60e56ebb6a093c4",
+        "tx_guid": "22c93de523b438d8cb2e9d5f3611bec3",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -344660,
+        "value_denom": 100
+      },
+      {
+        "guid": "341276f616360107f2b393f4d17644fd",
+        "tx_guid": "a39639e3747f12d9815fa751f9034570",
+        "account_guid": "0c6396493adf03bb9c0249a0fdaff21b",
+        "value_num": 6133184,
+        "value_denom": 100
+      },
+      {
+        "guid": "0b14d82d82f69a4c07d73bd64fe642d6",
+        "tx_guid": "a39639e3747f12d9815fa751f9034570",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -6133184,
+        "value_denom": 100
+      },
+      {
+        "guid": "734f4bd7d938c82fd7a0fc644e8407c9",
+        "tx_guid": "5f7a12c0f07782dc32c9c929a1b44363",
+        "account_guid": "e9fc9d04eca20b12907a1f1569f72c63",
+        "value_num": 1200000,
+        "value_denom": 100
+      },
+      {
+        "guid": "34dfba0aceed5f681c75157b49de5c7d",
+        "tx_guid": "5f7a12c0f07782dc32c9c929a1b44363",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -1200000,
+        "value_denom": 100
+      },
+      {
+        "guid": "fe90d8abfd81e302e74eafa7a4d4575f",
+        "tx_guid": "a85baf80e7b59f424dabe7b34b2c208b",
+        "account_guid": "ace8a3c306e8644c2f37813270c7d60c",
+        "value_num": 47324362,
+        "value_denom": 100
+      },
+      {
+        "guid": "6ea471b9cb6533145518c588e78a4cf9",
+        "tx_guid": "a85baf80e7b59f424dabe7b34b2c208b",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -47324362,
+        "value_denom": 100
+      },
+      {
+        "guid": "cbc9f650be127acc6b5cc1cd09b2af3c",
+        "tx_guid": "83ec4cdce7b9c4319e45821d17b923be",
+        "account_guid": "63ca9110b0fee6e02a65fe3bd089a72b",
+        "value_num": 842841,
+        "value_denom": 100
+      },
+      {
+        "guid": "e67f0442009fac6292a56b4f92624437",
+        "tx_guid": "83ec4cdce7b9c4319e45821d17b923be",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -842841,
+        "value_denom": 100
+      },
+      {
+        "guid": "5222d89e688dd063b0933a40dde946db",
+        "tx_guid": "67af9babac0b8c8d447accdfde3e399d",
+        "account_guid": "e53623d53e1fc791c269b330fb71305a",
+        "value_num": 1979550.9999999998,
+        "value_denom": 100
+      },
+      {
+        "guid": "206f03e89bfd52b11086118f27809180",
+        "tx_guid": "67af9babac0b8c8d447accdfde3e399d",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -1979550.9999999998,
+        "value_denom": 100
+      },
+      {
+        "guid": "46b18f002e7257414f663c1059539b34",
+        "tx_guid": "fdfa984ec2c088d354e2e437c2a7df46",
+        "account_guid": "1184ad3c4e96158b7fa097cc1275a789",
+        "value_num": 1600303,
+        "value_denom": 100
+      },
+      {
+        "guid": "9045fe7e0877ef0b856e08b114d5721f",
+        "tx_guid": "fdfa984ec2c088d354e2e437c2a7df46",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -1600303,
+        "value_denom": 100
+      },
+      {
+        "guid": "9dae44a9241c81e93767c63d4555be40",
+        "tx_guid": "77760da097b96b3f24b713f28dc558c2",
+        "account_guid": "3a379608fed79ede539b9388d9e46006",
+        "value_num": 516915959,
+        "value_denom": 100
+      },
+      {
+        "guid": "cb448a334aa4178f75b395f37101369e",
+        "tx_guid": "77760da097b96b3f24b713f28dc558c2",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -516915959,
+        "value_denom": 100
+      },
+      {
+        "guid": "b7582c6bdb19e6ad17de878f2e1b498b",
+        "tx_guid": "b1f4005959338a29d286151879c25d03",
+        "account_guid": "41a0993db740b8ae85d2e716a22ae8eb",
+        "value_num": 525566766,
+        "value_denom": 100
+      },
+      {
+        "guid": "2f70ef4423b8a340ed7e77a892bdc65e",
+        "tx_guid": "b1f4005959338a29d286151879c25d03",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -525566766,
+        "value_denom": 100
+      },
+      {
+        "guid": "e88d50bad89deb80497d0fbb54afe8cc",
+        "tx_guid": "6a3d055df9fad48aeb5811139e847be9",
+        "account_guid": "5abdeeea9c8a3828e622917e8a614849",
+        "value_num": 3720000000,
+        "value_denom": 100
+      },
+      {
+        "guid": "b25540927d0472c35a0dcc92decb8242",
+        "tx_guid": "6a3d055df9fad48aeb5811139e847be9",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -3720000000,
+        "value_denom": 100
+      },
+      {
+        "guid": "cc89153cee0df9dbf58b097df2a5fad6",
+        "tx_guid": "988c8d841ce4931f56866851ca7bc320",
+        "account_guid": "b8a4bc9a74553f50c8a37aabd85c3150",
+        "value_num": 150000,
+        "value_denom": 100
+      },
+      {
+        "guid": "02d78d7648c4c4090a2791a655526e12",
+        "tx_guid": "988c8d841ce4931f56866851ca7bc320",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -150000,
+        "value_denom": 100
+      },
+      {
+        "guid": "88de694e314e9ba2911c85c0a1405bd2",
+        "tx_guid": "49f1cc480b634805fb8f57638eb3f066",
+        "account_guid": "a75285c4f1b3855776364045e035a9b9",
+        "value_num": 510000,
+        "value_denom": 100
+      },
+      {
+        "guid": "3c396a9f23159d12a3693eef991786b3",
+        "tx_guid": "49f1cc480b634805fb8f57638eb3f066",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -510000,
+        "value_denom": 100
+      },
+      {
+        "guid": "5b4876dbfb49be0ab9ee1aadcbbc561b",
+        "tx_guid": "47dbd43725969b37c71b625eb57ac2f3",
+        "account_guid": "2b0d5d0bf015e627e18487906dbce02b",
+        "value_num": 27122152,
+        "value_denom": 100
+      },
+      {
+        "guid": "41b142174530a33185b7733f7463273d",
+        "tx_guid": "47dbd43725969b37c71b625eb57ac2f3",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -27122152,
+        "value_denom": 100
+      },
+      {
+        "guid": "2379349e8b0db64a43a0c9587f00895c",
+        "tx_guid": "2015c50531abf388e5bad2a11d98dec1",
+        "account_guid": "a02ee6c4bded268682d7ed445f0a8728",
+        "value_num": -67651022,
+        "value_denom": 100
+      },
+      {
+        "guid": "70a460269489c8232f696f6e113167a2",
+        "tx_guid": "2015c50531abf388e5bad2a11d98dec1",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 67651022,
+        "value_denom": 100
+      },
+      {
+        "guid": "ed351e374ba30db31ca08fbe74c1892c",
+        "tx_guid": "ddf9afa5e275dc63a8b2d485c1077e68",
+        "account_guid": "96d36ee8f874ee89949a8fdd99b5c379",
+        "value_num": -4846613430,
+        "value_denom": 100
+      },
+      {
+        "guid": "acb6d00ea13d07a3bd1a7c4a21e47350",
+        "tx_guid": "ddf9afa5e275dc63a8b2d485c1077e68",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 4846613430,
+        "value_denom": 100
+      },
+      {
+        "guid": "c638ca48ff8345c2b62985c5fbec09ad",
+        "tx_guid": "9db12803e07134fd598c4a1c3a936c67",
+        "account_guid": "27e3f7e052d034940e4f0984da5ff0fe",
+        "value_num": 0,
+        "value_denom": 100
+      },
+      {
+        "guid": "e08f5c423d34f8b204b21d58fe4727bb",
+        "tx_guid": "9db12803e07134fd598c4a1c3a936c67",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 0,
+        "value_denom": 100
+      },
+      {
+        "guid": "7e346b0352df76532b43e68b3c0259b0",
+        "tx_guid": "f23a9e97641c4fef8ff2dcda2af4004f",
+        "account_guid": "936bcd2858bf2fb70f5696f61fe4c5fa",
+        "value_num": -10881895,
+        "value_denom": 100
+      },
+      {
+        "guid": "f31263ce2cf0dcebb5b91349c0be6af0",
+        "tx_guid": "f23a9e97641c4fef8ff2dcda2af4004f",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 10881895,
+        "value_denom": 100
+      },
+      {
+        "guid": "32d0278284c3665439a321b0cd0765fd",
+        "tx_guid": "4540d8fc4cda4a3fee4fec67f077c4c0",
+        "account_guid": "56b42a18bad4d27898269da271a7fc12",
+        "value_num": -42126262,
+        "value_denom": 100
+      },
+      {
+        "guid": "06ea3ea754161538afbf0c1c6f15f55c",
+        "tx_guid": "4540d8fc4cda4a3fee4fec67f077c4c0",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 42126262,
+        "value_denom": 100
+      },
+      {
+        "guid": "9d9f2b65f406861f5c6e90f2bf4bfdce",
+        "tx_guid": "45b4fea8e387b8d3f1942869c35f7604",
+        "account_guid": "cf92c27b2fba12dd5058d7703712b090",
+        "value_num": -817875,
+        "value_denom": 100
+      },
+      {
+        "guid": "fd0d231b5fc9c7b0f7e51a2184709a07",
+        "tx_guid": "45b4fea8e387b8d3f1942869c35f7604",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 817875,
+        "value_denom": 100
+      },
+      {
+        "guid": "0732260e791adade020c732d64c0ebf2",
+        "tx_guid": "1d28dd545254fe057c89b4c87a4942fe",
+        "account_guid": "58991305d309125d86c0d7345e26b502",
+        "value_num": -154165,
+        "value_denom": 100
+      },
+      {
+        "guid": "5aafd8686b73680a02f2e8cf53b2c162",
+        "tx_guid": "1d28dd545254fe057c89b4c87a4942fe",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 154165,
+        "value_denom": 100
+      },
+      {
+        "guid": "752c43f062ce623b40a6109b5f14af17",
+        "tx_guid": "9d88c3cc0d56da7bb6b49a78220f7904",
+        "account_guid": "a04480017ffe9bafb51f2b1d5d2b65d1",
+        "value_num": -47892719,
+        "value_denom": 100
+      },
+      {
+        "guid": "b1c07d0ba6d51394bfb04cd1bca0df54",
+        "tx_guid": "9d88c3cc0d56da7bb6b49a78220f7904",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 47892719,
+        "value_denom": 100
+      },
+      {
+        "guid": "3235294cc1a03053319499683ae85dcf",
+        "tx_guid": "bfa399d6d55d3e8ff762b421f7f3e159",
+        "account_guid": "75b1631a53ec247950ddead060c578d5",
+        "value_num": -65641,
+        "value_denom": 100
+      },
+      {
+        "guid": "3e416e83b9608c93f5d460786fbc9343",
+        "tx_guid": "bfa399d6d55d3e8ff762b421f7f3e159",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 65641,
+        "value_denom": 100
+      },
+      {
+        "guid": "6322fa0a5614b68fcc9163cb96ee90df",
+        "tx_guid": "52d6b7dc9059d267c207d9edc2bca82d",
+        "account_guid": "80c3de119077637f87bee5ab73e8af8e",
+        "value_num": -102450,
+        "value_denom": 100
+      },
+      {
+        "guid": "5aa43fe05ba2035e6d909648d3491005",
+        "tx_guid": "52d6b7dc9059d267c207d9edc2bca82d",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 102450,
+        "value_denom": 100
+      },
+      {
+        "guid": "04ae6da009b616f608e85b14c351350b",
+        "tx_guid": "9a7669da015a6e89a429591535572b21",
+        "account_guid": "e82c682c9142c930636b7121500edfe6",
+        "value_num": -23101,
+        "value_denom": 100
+      },
+      {
+        "guid": "b9505293f0ff082cf2d42dadbf1346bc",
+        "tx_guid": "9a7669da015a6e89a429591535572b21",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 23101,
+        "value_denom": 100
+      },
+      {
+        "guid": "946c4c14190e3bd71bb8ee3aeaf98149",
+        "tx_guid": "e041573e34c0f3dd6ec0267a16d9aade",
+        "account_guid": "c5bc0b1ad4ec2494a8e4cfac22fa92c9",
+        "value_num": 71167,
+        "value_denom": 100
+      },
+      {
+        "guid": "ffdd38bfa90b96d8846c354b5e3e8dc4",
+        "tx_guid": "e041573e34c0f3dd6ec0267a16d9aade",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -71167,
+        "value_denom": 100
+      },
+      {
+        "guid": "a3369b6017c42e0894b6907eaa5726ac",
+        "tx_guid": "210b340ec3e1d95226e2c7d5ac2f7f3d",
+        "account_guid": "e064789526571f54a8a416d82babada6",
+        "value_num": -30100,
+        "value_denom": 100
+      },
+      {
+        "guid": "b5b1f69251e63577ad310a06261b5322",
+        "tx_guid": "210b340ec3e1d95226e2c7d5ac2f7f3d",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 30100,
+        "value_denom": 100
+      },
+      {
+        "guid": "9e5f31242ce330ee73d07363258f7ec6",
+        "tx_guid": "be34c1f2bd3b60aa84f2bbd1d1cdfcd5",
+        "account_guid": "ce7dcc1aa092b22cef8234e109f0e478",
+        "value_num": -525000000,
+        "value_denom": 100
+      },
+      {
+        "guid": "2b0bbf76c61cae4e6c535312422351b0",
+        "tx_guid": "be34c1f2bd3b60aa84f2bbd1d1cdfcd5",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 525000000,
+        "value_denom": 100
+      },
+      {
+        "guid": "3487d68251165504931d036f60254ac5",
+        "tx_guid": "65d9d43f0afa52fadfa1eccbf2310397",
+        "account_guid": "26c9c9c70383c2cb6950ff4ae6bc73d7",
+        "value_num": -15636600,
+        "value_denom": 100
+      },
+      {
+        "guid": "e40c1d91c5b213ce9e2acd808012dfaa",
+        "tx_guid": "65d9d43f0afa52fadfa1eccbf2310397",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 15636600,
+        "value_denom": 100
+      },
+      {
+        "guid": "766b166910b3d1c1eaed71b2ede49277",
+        "tx_guid": "dd8aed564a5dc751394146fd9644898b",
+        "account_guid": "44a98b01b63cd039b3ab6e1678e80319",
+        "value_num": -13030484,
+        "value_denom": 100
+      },
+      {
+        "guid": "22703eaaf3e21c55465844e007072e22",
+        "tx_guid": "dd8aed564a5dc751394146fd9644898b",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 13030484,
+        "value_denom": 100
+      },
+      {
+        "guid": "f538292452f4b179c0c9798f83db7048",
+        "tx_guid": "730310c9f08567b94ff9b108a592714b",
+        "account_guid": "d789c04b55aa6d7c85c4e5a74fcc7e37",
+        "value_num": 649306699,
+        "value_denom": 100
+      },
+      {
+        "guid": "04bb5e2eba44321ad3bff2431ff17c52",
+        "tx_guid": "730310c9f08567b94ff9b108a592714b",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": -649306699,
+        "value_denom": 100
+      },
+      {
+        "guid": "f071c677df619e81e96a9ad6f2049b22",
+        "tx_guid": "f5d03e3efc016ec12ad0c2e68964e37f",
+        "account_guid": "19c7e8a3d913389cbbe99eb479b8b948",
+        "value_num": -54077686,
+        "value_denom": 100
+      },
+      {
+        "guid": "2295c9bb10b35e263e20bc92a933edd6",
+        "tx_guid": "f5d03e3efc016ec12ad0c2e68964e37f",
+        "account_guid": "a509231ddc6043df93e7f6e231fb46e0",
+        "value_num": 54077686,
+        "value_denom": 100
+      }
+    ]
+  }
 }

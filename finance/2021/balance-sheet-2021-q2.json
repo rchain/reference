@@ -1,0 +1,1321 @@
+{
+  "heading": {
+    "org": "RChain Cooperative",
+    "report": "Balance Sheet",
+    "reportDate": "2021-06-30T05:00:00.000Z"
+  },
+  "detail": [
+    {
+      "acctType": "ASSETS",
+      "name": "1010 BECU Checking",
+      "amt": -104843.93,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1010 BECU Checking",
+      "amt": 4650.25,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1011 BECU Savings",
+      "amt": 183110.9,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1011 BECU Savings",
+      "amt": 51350.54,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1090 Settlement Account for Crypto Transactions",
+      "amt": -750000,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1090 Settlement Account for Crypto Transactions",
+      "amt": -780080,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Coinbase Bank Clearing",
+      "amt": 17159.29,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Coinbase Bank Clearing",
+      "amt": 20680.26,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USD Bittrex",
+      "amt": 2554.27,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USD Bittrex",
+      "amt": 2554.27,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USDC Coinbase",
+      "amt": -2.32,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USDT Bittrex",
+      "amt": 42500,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USDT Bittrex",
+      "amt": 16280,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USDT Gnosis",
+      "amt": 921100,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "USDT Gnosis",
+      "amt": 627863.39,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1410 RHOC",
+      "amt": 1321,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1410 RHOC",
+      "amt": 1321,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1420 BTC",
+      "amt": 80402.89,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1420 BTC",
+      "amt": -22634.33,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1430 ETH",
+      "amt": 7861.42,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1430 ETH",
+      "amt": 7861.42,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1510 Other Current Assets",
+      "amt": 3446.6,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1510 Other Current Assets",
+      "amt": 3446.6,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1512 Other Current Assets",
+      "amt": 61331.84,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1512 Other Current Assets",
+      "amt": 61331.84,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1513 Employee Loans",
+      "amt": 43363.11,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1513 Employee Loans",
+      "amt": 12000,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "BioSim Loan",
+      "amt": 473243.62,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "BioSim Loan",
+      "amt": 473243.62,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1610 Furniture & Fixtures",
+      "amt": 8428.41,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1610 Furniture & Fixtures",
+      "amt": 8428.41,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1611 Fixed Asset Computers",
+      "amt": 19795.51,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1611 Fixed Asset Computers",
+      "amt": 19795.51,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1612 Machinery & Equipment",
+      "amt": 16003.03,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1612 Machinery & Equipment",
+      "amt": 16003.03,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1900 Blockchain Platform in Process",
+      "amt": 5169,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1900 Blockchain Platform in Process",
+      "amt": 5169,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1910 Notes Receivable",
+      "amt": 5255,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1910 Notes Receivable",
+      "amt": 5255,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1915 LP Investment Reflective Ventures",
+      "amt": 37200,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "1915 LP Investment Reflective Ventures",
+      "amt": 37200,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Due from DAASL",
+      "amt": 1500,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Due from RSong",
+      "amt": 100,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Due from RSong",
+      "amt": 5100,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Staking",
+      "amt": 271221.52,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "ASSETS",
+      "name": "Staking",
+      "amt": 271221.52,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2110 Accounts Payable (A/P)",
+      "amt": 1347,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2110 Accounts Payable (A/P)",
+      "amt": 676510.22,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2210 Deferred Revenue",
+      "amt": 48466,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2210 Deferred Revenue",
+      "amt": 48466,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Board Compansation Accrual",
+      "amt": 0,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Board Compansation Accrual",
+      "amt": 0,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Meredith Loan",
+      "amt": 106773.29,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Meredith Loan",
+      "amt": 108818.95,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Payroll Accrual",
+      "amt": 421262.62,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Payroll Accrual",
+      "amt": 421262.62,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Payroll Liabilities",
+      "amt": 8178.75,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Payroll Liabilities",
+      "amt": 8178.75,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2410 Accrued Payroll",
+      "amt": 863.2,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2410 Accrued Payroll",
+      "amt": 1541.65,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Deferred Wages Accrual",
+      "amt": 478927.19,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Deferred Wages Accrual",
+      "amt": 478927.19,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "MD Income Tax",
+      "amt": 512.25,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "MD Income Tax",
+      "amt": 656.41,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "MD Unemployment Tax",
+      "amt": 1662,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "MD Unemployment Tax",
+      "amt": 1024.5,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "NYS Employment Taxes",
+      "amt": 755.92,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "NYS Employment Taxes",
+      "amt": 231.01,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "NYS Income Tax",
+      "amt": 623.58,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "NYS Income Tax",
+      "amt": -711.67,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "WA Paid Family and Medical Leave Tax",
+      "amt": 130.7,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "WA Paid Family and Medical Leave Tax",
+      "amt": 301,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2915 Long Term Deferred Revenue",
+      "amt": 5250,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "2915 Long Term Deferred Revenue",
+      "amt": 5250,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "PPP Loan",
+      "amt": 156366,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "PPP Loan",
+      "amt": 156366,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "3100 Members' Equity",
+      "amt": 129584.68,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "3100 Members' Equity",
+      "amt": 130304.84,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "3900 Retained Earnings",
+      "amt": -6493,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "3900 Retained Earnings",
+      "amt": -6493,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Net Income",
+      "amt": 366798.95,
+      "period": {
+        "start": [
+          2021,
+          1
+        ],
+        "end": [
+          2021,
+          3
+        ]
+      },
+      "acctPath": []
+    },
+    {
+      "acctType": "LIABILITIES AND EQUITY",
+      "name": "Net Income",
+      "amt": 540776.86,
+      "period": {
+        "start": [
+          2021,
+          4
+        ],
+        "end": [
+          2021,
+          6
+        ]
+      },
+      "acctPath": []
+    }
+  ]
+}

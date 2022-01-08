@@ -1,6 +1,6 @@
 # TODO: git submodule?
 # https://github.com/dckc/finquick
-# https://github.com/dckc/finquick/tree/rchain-finance f9332bb
+# https://github.com/dckc/finquick/tree/rchain-finance 892c136
 FINQUICK=finquick
 
 balance-sheet-2021-q2.json: balance-sheet-2021-q2.txt
